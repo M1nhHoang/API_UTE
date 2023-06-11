@@ -1,0 +1,5 @@
+222520900404
+# type
+# số học kì + tên lớp học phần + số thứ tự của tên lớp học phần
+# ví dụ : 122ABC05 Trong đó số học kì là 122 + mã học phần + 05
+# mã học phần lấy ở cột mã học phần
