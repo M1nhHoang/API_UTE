@@ -1,5 +1,6 @@
-222520900404
-# type
-# số học kì + tên lớp học phần + số thứ tự của tên lớp học phần
-# ví dụ : 122ABC05 Trong đó số học kì là 122 + mã học phần + 05
-# mã học phần lấy ở cột mã học phần
+123HKDNCNTT01
+123TGMT2002
+123CNPM02
+123TTCMCNM06
+123LTTD03
+123TLTTD06

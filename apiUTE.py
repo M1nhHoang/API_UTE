@@ -12,7 +12,7 @@ class Api_UTE:
 		self.user = user
 		self.password = password
 		self.cookies = None
-		self.maMonHoc = None
+		self.maDangKi = None
 		self.dsMonHoc = dsMonHoc
 
 	def getCookies(self):
@@ -31,28 +31,48 @@ class Api_UTE:
 			print('Không lấy được cookie')
 
 	def getMaDangKi(self):
-		ds_monHoc = requests.get('http://daotao.ute.udn.vn/viewlhpdksv.asp') # để ý bỏ đưởng link cho đúng đmm
+		ThongTinDki = requests.get('http://daotao.ute.udn.vn/viewreg.asp')
+		# use utf 8
+		ThongTinDki.encoding = ThongTinDki.apparent_encoding
+		try:
+			ThongTinDki = ThongTinDki.text[ThongTinDki.text.find(account_id):ThongTinDki.text.find('</TR>',ThongTinDki.text.find(account_id))].split('</TD><TD')
+
+			maSV = ThongTinDki[0]
+			maDki =  ThongTinDki[1][ThongTinDki[1].find('>')+1:]
+			HoTen = (ThongTinDki[2] + ThongTinDki[3]).replace('>','')
+			time = ThongTinDki[4][ThongTinDki[4].find('>')+1:]
+			soTinChi = ThongTinDki[5][ThongTinDki[5].find('>')+1:]
+			soMon = ThongTinDki[6][ThongTinDki[6].find('>')+1:]
+			lop = ThongTinDki[7][ThongTinDki[7].find('>')+1:ThongTinDki[7].find('<')]
+
+			self.maDangKi = maDki
+		except:
+			print('Không Tìm Thấy Mã Sinh Viên Hoạc Bạn Chưa Đăng Kí!')
+
+	def convertMaMonHoc_MaDangKi(self):
+		ds_monHoc = requests.get('http://daotao.ute.udn.vn/viewlhpdksv.asp')
 		# use utf 8
 		ds_monHoc.encoding = ds_monHoc.apparent_encoding
 		ds_monHoc = ds_monHoc.text.split('<TR>')
 
-		for i in range(3, len(data)):
-			if data[i] == '':
+		dsMaMonHoc = []
+		for i in range(0, len(self.dsMonHoc)):
+			if self.dsMonHoc[i] == '':
 				break
 			for j in range(len(ds_monHoc)):
-				if ds_monHoc[j].find(data[i]) != -1:
+				if ds_monHoc[j].find(self.dsMonHoc[i]) != -1:
 					ma_mon_hoc = ds_monHoc[j].split('</TD><TD')[1]
-					khoa = data[i][:3]
-					so_lop = data[i][-2:]
-					print(khoa+ma_mon_hoc[ma_mon_hoc.find('>')+1:]+so_lop)
-					self.maMonHoc = ma_mon_hoc
-					return True
-		return False
+					khoa = self.dsMonHoc[i][:3]
+					so_lop = self.dsMonHoc[i][-2:]
+					dsMaMonHoc.append(khoa+ma_mon_hoc[ma_mon_hoc.find('>')+1:]+so_lop)
+					break
+
+		return dsMaMonHoc
 
 	def bsungmonhoc(self):
 		url = 'http://daotao.ute.udn.vn/addmorelhptc.asp'
 		
-		headers = {
+		header = {
 			'Content-Type': 'application/x-www-form-urlencoded'
 		}
 
@@ -62,7 +82,7 @@ class Api_UTE:
 			# số học kì + tên lớp học phần + số thứ tự của tên lớp học phần
 			# ví dụ : 122ABC05 Trong đó số học kì là 122 + mã học phần + 05
 			# mã học phần lấy ở cột mã học phần
-			'mdk': self.maMonHoc,
+			'mdk': self.maDangKi,
 		}
 
 		rs = requests.post(url, headers = header, cookies = self.cookies, data = playload)
@@ -76,7 +96,7 @@ class Api_UTE:
 		}
 		playload = {
 			'mhdk': input('Mã Môn Học Muốn Xóa: '),
-			'mdk': self.maMonHoc,
+			'mdk': self.maDangKi,
 		}
 
 		rs = requests.post(url, headers = header, cookies = self.cookies, data = playload)
