@@ -35,7 +35,7 @@ class Api_UTE:
 		# use utf 8
 		ThongTinDki.encoding = ThongTinDki.apparent_encoding
 		try:
-			ThongTinDki = ThongTinDki.text[ThongTinDki.text.find(account_id):ThongTinDki.text.find('</TR>',ThongTinDki.text.find(account_id))].split('</TD><TD')
+			ThongTinDki = ThongTinDki.text[ThongTinDki.text.find(self.user):ThongTinDki.text.find('</TR>',ThongTinDki.text.find(self.user))].split('</TD><TD')
 
 			maSV = ThongTinDki[0]
 			maDki =  ThongTinDki[1][ThongTinDki[1].find('>')+1:]
@@ -82,7 +82,7 @@ class Api_UTE:
 			# số học kì + tên lớp học phần + số thứ tự của tên lớp học phần
 			# ví dụ : 122ABC05 Trong đó số học kì là 122 + mã học phần + 05
 			# mã học phần lấy ở cột mã học phần
-			'mdk': self.maDangKi,
+			'mdk': self.maDangKi
 		}
 
 		rs = requests.post(url, headers = header, cookies = self.cookies, data = playload)

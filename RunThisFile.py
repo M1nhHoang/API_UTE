@@ -109,7 +109,7 @@ while True:
 		menu.getMaDangKi()
 		menu.xoamonhoc()
 	elif choice == "8":
-		more_option(account["taikhoan"], account["matkhau"], data)
+		more_option(account["taikhoan"], account["matkhau"], Api_UTE(dsMonHoc=data).convertMaMonHoc_MaDangKi())
 	elif choice == "0":
 		print("Thoát")
 		break
