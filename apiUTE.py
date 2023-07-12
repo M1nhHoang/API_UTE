@@ -85,38 +85,83 @@ class Api_UTE:
 			'mdk': self.maDangKi
 		}
 
-		rs = requests.post(url, headers = header, cookies = self.cookies, data = playload)
-		print(rs)
+		response = requests.post(url, headers = header, cookies = self.cookies, data = playload)
+		response.encoding = 'utf-8'
 
-	def xoamonhoc(cookie):
+		# Kiểm tra mã trạng thái
+		if response.status_code == 200:
+			# In ra nội dung của trang web đã trả về
+			if not response.text.find("TRANG BÁO LỖI") != -1:
+				with open('./log.html', 'w') as f:
+					f.write(response.text)
+				print("=======================================")
+				print("=======================================")
+				print("Thành Công")
+				print("=======================================")
+				print("=======================================")
+			print("Trang báo lỗi")
+		else:
+			print("Yêu cầu không thành công. Mã trạng thái:", response.status_code)
+
+	def xoamonhoc(self):
 		url = 'http://daotao.ute.udn.vn/removelhptc.asp'
 
 		header= {
 			'Content-Type': 'application/x-www-form-urlencoded'
 		}
 		playload = {
-			'mhdk': input('Mã Môn Học Muốn Xóa: '),
+			'mhdk': self.dsMonHoc,
 			'mdk': self.maDangKi,
 		}
 
-		rs = requests.post(url, headers = header, cookies = self.cookies, data = playload)
-		print(rs)
+		response = requests.post(url, headers = header, cookies = self.cookies, data = playload)
+		response.encoding = 'utf-8'
+
+		# Kiểm tra mã trạng thái
+		if response.status_code == 200:
+			# In ra nội dung của trang web đã trả về
+			if not response.text.find("TRANG BÁO LỖI") != -1:
+				with open('./log.html', 'w') as f:
+					f.write(response.text)
+				print("=======================================")
+				print("=======================================")
+				print("Thành Công")
+				print("=======================================")
+				print("=======================================")
+			print("Trang báo lỗi")
+		else:
+			print("Yêu cầu không thành công. Mã trạng thái:", response.status_code)
 
 	def dkmonhoc(self):
-		url = 'http://daotao.ute.udn.vn/committc.asp'
+		url = 'http://daotao.ute.udn.vn/dkmhcmt.asp'
 		header= {
 			'Content-Type': 'application/x-www-form-urlencoded'
 		}
 		playload = {
-			'mhdk': self.dsMonHoc,
+			'mldk': self.dsMonHoc,
 			# type
 			# số học kì + tên lớp học phần + số thứ tự của tên lớp học phần
 			# ví dụ : 122ABC05 Trong đó số học kì là 122 + mã học phần + 05
 			# mã học phần lấy ở cột mã học phần
 		}
 
-		rs = requests.post(url, headers = header, cookies = self.cookies, data = playload)
-		print(rs)
+		response = requests.post(url, headers = header, cookies = self.cookies, data = playload)
+		response.encoding = 'utf-8'
+
+		# Kiểm tra mã trạng thái
+		if response.status_code == 200:
+			# In ra nội dung của trang web đã trả về
+			if not response.text.find("TRANG BÁO LỖI") != -1:
+				with open('./log.html', 'w') as f:
+					f.write(response.text)
+				print("=======================================")
+				print("=======================================")
+				print("Thành Công")
+				print("=======================================")
+				print("=======================================")
+			print("Trang báo lỗi")
+		else:
+			print("Yêu cầu không thành công. Mã trạng thái:", response.status_code)
 
 	def xemTKB(self):
 		payload = {

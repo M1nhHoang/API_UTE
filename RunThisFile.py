@@ -18,13 +18,14 @@ def display_menuMoreOption():
 	print("==== MENU ====")
 	print("1. Đăng kí môn học (multi thread)")
 	print("2. Thêm môn học (multi thread)")
+	print("3. Xóa môn học (multi thread)")
 	print("0. Back")
 	print("================")
 
 def more_option(user, pwd, data):
 	while True:
 		display_menuMoreOption()
-		choice = input("Nhập lựa chọn của bạn (0-2): ")
+		choice = input("Nhập lựa chọn của bạn (0-3): ")
 		if choice == "1":
 			def dangKi(user, pwd, data):
 				while True:
@@ -44,15 +45,33 @@ def more_option(user, pwd, data):
 		elif choice == "2":
 			def them(user, pwd, data):
 				while True:
-					for d in data:
-						add = Api_UTE(user, pwd, d)
-						add.getCookies()
-						add.getMaDangKi()
-						add.bsungmonhoc()
+
+					add = Api_UTE(user, pwd, data)
+					add.getCookies()
+					add.getMaDangKi()
+					add.bsungmonhoc()
 
 			threads = []
 			for _ in range(int(input("Nhập số luồng: "))):
 				thread = threading.Thread(target=them, args=(user, pwd, data))
+				thread.start()
+				threads.append(thread)
+
+			for thread in threads:
+				thread.join()
+
+		elif choice == "3":
+			def xoa(user, pwd, data):
+				while True:
+					for d in data:
+						remove = Api_UTE(user, pwd, d)
+						remove.getCookies()
+						remove.getMaDangKi()
+						remove.xoamonhoc()
+
+			threads = []
+			for _ in range(int(input("Nhập số luồng: "))):
+				thread = threading.Thread(target=xoa, args=(user, pwd, data))
 				thread.start()
 				threads.append(thread)
 
@@ -116,9 +135,3 @@ while True:
 	else:
 		print("Lựa chọn không hợp lệ. Vui lòng chọn lại.")
 
-# 123550533301
-# 123550532602
-# 123550513202
-# 123550532806
-# 123550517203
-# 123550520606
