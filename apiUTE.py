@@ -92,8 +92,6 @@ class Api_UTE:
 		if response.status_code == 200:
 			# In ra nội dung của trang web đã trả về
 			if not response.text.find("TRANG BÁO LỖI") != -1:
-				with open('./log.html', 'w') as f:
-					f.write(response.text)
 				print("=======================================")
 				print("=======================================")
 				print("Thành Công")
@@ -121,8 +119,6 @@ class Api_UTE:
 		if response.status_code == 200:
 			# In ra nội dung của trang web đã trả về
 			if not response.text.find("TRANG BÁO LỖI") != -1:
-				with open('./log.html', 'w') as f:
-					f.write(response.text)
 				print("=======================================")
 				print("=======================================")
 				print("Thành Công")
@@ -152,8 +148,6 @@ class Api_UTE:
 		if response.status_code == 200:
 			# In ra nội dung của trang web đã trả về
 			if not response.text.find("TRANG BÁO LỖI") != -1:
-				with open('./log.html', 'w') as f:
-					f.write(response.text)
 				print("=======================================")
 				print("=======================================")
 				print("Thành Công")
