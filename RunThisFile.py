@@ -17,15 +17,16 @@ def display_menu():
 def display_menuMoreOption():
 	print("==== MENU ====")
 	print("1. Đăng kí môn học (multi thread)")
-	print("2. Thêm môn học (multi thread)")
-	print("3. Xóa môn học (multi thread)")
+	print("2. Sumary (multi thread)")
+	print("3. Thêm môn học (multi thread)")
+	print("4. Xóa môn học (multi thread)")
 	print("0. Back")
 	print("================")
 
 def more_option(user, pwd, data):
 	while True:
 		display_menuMoreOption()
-		choice = input("Nhập lựa chọn của bạn (0-3): ")
+		choice = input("Nhập lựa chọn của bạn (0-4): ")
 		if choice == "1":
 			def dangKi(user, pwd, data):
 				while True:
@@ -42,14 +43,31 @@ def more_option(user, pwd, data):
 			for thread in threads:
 				thread.join()
 
-		elif choice == "2":
+		if choice == "2":
+			def sumary(user, pwd, data):
+				while True:
+					reg = Api_UTE(user, pwd, data)
+					reg.getCookies()
+					reg.sumary()
+
+
+			threads = []
+			for _ in range(int(input("Nhập số luồng: "))):
+				thread = threading.Thread(target=sumary, args=(user, pwd, data))
+				thread.start()
+				threads.append(thread)
+
+			for thread in threads:
+				thread.join()
+
+		elif choice == "3":
 			def them(user, pwd, data):
 				while True:
-
-					add = Api_UTE(user, pwd, data)
-					add.getCookies()
-					add.getMaDangKi()
-					add.bsungmonhoc()
+					for d in data:
+						add = Api_UTE(user, pwd, d)
+						add.getCookies()
+						add.getMaDangKi()
+						add.bsungmonhoc()
 
 			threads = []
 			for _ in range(int(input("Nhập số luồng: "))):
@@ -60,7 +78,7 @@ def more_option(user, pwd, data):
 			for thread in threads:
 				thread.join()
 
-		elif choice == "3":
+		elif choice == "4":
 			def xoa(user, pwd, data):
 				while True:
 					for d in data:
@@ -104,7 +122,7 @@ while True:
 	elif choice == "2":
 		print("Xem học phí")
 		menu.getCookies()
-		menu.xemTKB()
+		menu.xemHocPhi()
 	elif choice == "3":
 		print("Xem lịch thi")
 		menu.getCookies()
