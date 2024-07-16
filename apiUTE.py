@@ -21,14 +21,17 @@ class Api_UTE:
 			"pw": self.password
 		}
 
-		rs = requests.get(f'http://daotao.ute.udn.vn/svlogin.asp', data = payload)
-		rs.encoding = 'utf-8'
-		if 'Xin chào sinh viên' in rs.text:
-			# get cookie
-			self.cookies = rs.cookies
+		try:
+			rs = requests.get(f'http://daotao.ute.udn.vn/svlogin.asp', data = payload)
+			rs.encoding = 'utf-8'
+			if 'Xin chào sinh viên' in rs.text:
+				# get cookie
+				self.cookies = rs.cookies
 
-		else:
-			print('Không lấy được cookie')
+			else:
+				print('Không lấy được cookie')
+		except:
+			pass
 
 	def getMaDangKi(self):
 		ThongTinDki = requests.get('http://daotao.ute.udn.vn/viewreg.asp')
@@ -85,21 +88,33 @@ class Api_UTE:
 			'mdk': self.maDangKi
 		}
 
-		response = requests.post(url, headers = header, cookies = self.cookies, data = playload)
-		response.encoding = 'utf-8'
 
-		# Kiểm tra mã trạng thái
-		if response.status_code == 200:
-			# In ra nội dung của trang web đã trả về
-			if not response.text.find("TRANG BÁO LỖI") != -1:
-				print("=======================================")
-				print("=======================================")
-				print("Thành Công")
-				print("=======================================")
-				print("=======================================")
-			print("Trang báo lỗi")
-		else:
-			print("Yêu cầu không thành công. Mã trạng thái:", response.status_code)
+		try:
+			response = requests.post(url, headers = header, cookies = self.cookies, data = playload)
+			response.encoding = 'utf-8'
+
+			# Kiểm tra mã trạng thái
+			if response.status_code == 200:
+				# In ra nội dung của trang web đã trả về
+				if response.text.find("TRANG BÁO LỖI") != -1:
+					print("Trang báo lỗi")
+				elif response.text.find("Xin mời đăng nhập trước khi đăng ký môn học.") != -1:
+					print("Chưa đăng nhập")
+				else:
+					print(response.text)
+					with open('log.html', "w", encoding="utf-8") as file:
+						# Ghi đoạn mã HTML vào file
+						file.write(response.text)
+					print("=======================================")
+					print("=======================================")
+					print("Thành Công")
+					print("=======================================")
+					print("=======================================")
+
+			else:
+				print("Yêu cầu không thành công. Mã trạng thái:", response.status_code)
+		except:
+			pass
 
 	def xoamonhoc(self):
 		url = 'http://daotao.ute.udn.vn/removelhptc.asp'
@@ -112,24 +127,35 @@ class Api_UTE:
 			'mdk': self.maDangKi,
 		}
 
-		response = requests.post(url, headers = header, cookies = self.cookies, data = playload)
-		response.encoding = 'utf-8'
+		try:
+			response = requests.post(url, headers = header, cookies = self.cookies, data = playload)
+			response.encoding = 'utf-8'
 
-		# Kiểm tra mã trạng thái
-		if response.status_code == 200:
-			# In ra nội dung của trang web đã trả về
-			if not response.text.find("TRANG BÁO LỖI") != -1:
-				print("=======================================")
-				print("=======================================")
-				print("Thành Công")
-				print("=======================================")
-				print("=======================================")
-			print("Trang báo lỗi")
-		else:
-			print("Yêu cầu không thành công. Mã trạng thái:", response.status_code)
+			# Kiểm tra mã trạng thái
+			if response.status_code == 200:
+				# In ra nội dung của trang web đã trả về
+				if response.text.find("TRANG BÁO LỖI") != -1:
+					print("Trang báo lỗi")
+				elif response.text.find("Xin mời đăng nhập trước khi đăng ký môn học.") != -1:
+					print("Chưa đăng nhập")
+				else:
+					print(response.text)
+					with open('log.html', "w", encoding="utf-8") as file:
+						# Ghi đoạn mã HTML vào file
+						file.write(response.text)
+					print("=======================================")
+					print("=======================================")
+					print("Thành Công")
+					print("=======================================")
+					print("=======================================")
+
+			else:
+				print("Yêu cầu không thành công. Mã trạng thái:", response.status_code)
+		except:
+			pass
 
 	def dkmonhoc(self):
-		url = 'http://daotao.ute.udn.vn/dkmhcmt.asp'
+		url = 'http://daotao.ute.udn.vn/dkmhcmtbk.asp'
 		header= {
 			'Content-Type': 'application/x-www-form-urlencoded'
 		}
@@ -141,21 +167,76 @@ class Api_UTE:
 			# mã học phần lấy ở cột mã học phần
 		}
 
-		response = requests.post(url, headers = header, cookies = self.cookies, data = playload)
-		response.encoding = 'utf-8'
+		try:
+			response = requests.post(url, headers = header, cookies = self.cookies, data = playload)
+			response.encoding = 'utf-8'
 
-		# Kiểm tra mã trạng thái
-		if response.status_code == 200:
-			# In ra nội dung của trang web đã trả về
-			if not response.text.find("TRANG BÁO LỖI") != -1:
-				print("=======================================")
-				print("=======================================")
-				print("Thành Công")
-				print("=======================================")
-				print("=======================================")
-			print("Trang báo lỗi")
-		else:
-			print("Yêu cầu không thành công. Mã trạng thái:", response.status_code)
+			# Kiểm tra mã trạng thái
+			if response.status_code == 200:
+				# In ra nội dung của trang web đã trả về
+				if response.text.find("TRANG BÁO LỖI") != -1:
+					print("Trang báo lỗi")
+				elif response.text.find("Xin mời đăng nhập trước khi đăng ký môn học.") != -1:
+					print("Chưa đăng nhập")
+				else:
+					print(response.text)
+					with open('log.html', "w", encoding="utf-8") as file:
+						# Ghi đoạn mã HTML vào file
+						file.write(response.text)
+					print("=======================================")
+					print("=======================================")
+					print("Thành Công")
+					print("=======================================")
+					print("=======================================")
+
+
+				
+			else:
+				print("Yêu cầu không thành công. Mã trạng thái:", response.status_code)
+		except:
+			pass
+
+	def sumary(self):
+		url = 'http://daotao.ute.udn.vn/dkmhtc.asp'
+		header= {
+			'Content-Type': 'application/x-www-form-urlencoded'
+		}
+		playload = {
+			'mhdk': self.dsMonHoc,
+			# type
+			# số học kì + tên lớp học phần + số thứ tự của tên lớp học phần
+			# ví dụ : 122ABC05 Trong đó số học kì là 122 + mã học phần + 05
+			# mã học phần lấy ở cột mã học phần
+		}
+		
+		try:
+			response = requests.post(url, headers = header, cookies = self.cookies, data = playload)
+			response.encoding = 'utf-8'
+
+			# Kiểm tra mã trạng thái
+			if response.status_code == 200:
+				# In ra nội dung của trang web đã trả về
+				if response.text.find("TRANG BÁO LỖI") != -1:
+					print("Trang báo lỗi")
+				elif response.text.find("Xin mời đăng nhập trước khi đăng ký môn học.") != -1:
+					print("Chưa đăng nhập")
+				else:
+					print(response.text)
+					with open('log.html', "w", encoding="utf-8") as file:
+						# Ghi đoạn mã HTML vào file
+						file.write(response.text)
+					print("=======================================")
+					print("=======================================")
+					print("Thành Công")
+					print("=======================================")
+					print("=======================================")
+
+
+				
+			else:
+				print("Yêu cầu không thành công. Mã trạng thái:", response.status_code)
+		except:
+			pass
 
 	def xemTKB(self):
 		payload = {
