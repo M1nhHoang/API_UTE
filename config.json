@@ -1,7 +1,27 @@
 {
-	"dangNhap": {
-		"taikhoan": "",
-		"matkhau": ""
-	},
-	"dsDangKi": "./dsMonHoc.txt"
+    "student_id": "23115041122346",
+    "password": "20/01/2005",
+    "class_names_to_register": [
+        "125CNC01",
+        "125CNTP01",
+        "125CTM01",
+        "125TUDCK02",
+        "125THCMDRD01",
+        "125HTDTK04",
+        "125NLM05",
+        "125TNCNCTM2203",
+        "125THUDTCK04",
+        "125TSB&KLH02",
+        "125TBDTMCK01",
+        "125NLM03",
+        "125GDTC401",
+        "125HKDNCTM01",
+        "125CPPGCDB02",
+        "125TSB&KLH01",
+        "125CNC03"
+    ],
+    "cache_file": "all_subjects_cache.json",
+    "force_refresh_cache": false,
+    "batch_size": 20,
+    "check_interval": 2
 }

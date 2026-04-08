@@ -1,0 +1,2585 @@
+[
+  {
+    "MaHP": "5504270",
+    "TenHP": "Anh văn chuyên ngành",
+    "TenLopHP": "125AVCN01",
+    "SoTC": "2.0",
+    "MaLHP": "125550427001",
+    "MaGV": "5040047",
+    "GiangVien": "Nguyễn Xuân Bảo"
+  },
+  {
+    "MaHP": "5504013",
+    "TenHP": "Công nghệ tạo phôi",
+    "TenLopHP": "125CNTP01",
+    "SoTC": "2.0",
+    "MaLHP": "125550401301",
+    "MaGV": "5040074",
+    "GiangVien": "Huỳnh Hải"
+  },
+  {
+    "MaHP": "5209007",
+    "TenHP": "Chủ nghĩa xã hội khoa học",
+    "TenLopHP": "125CNXHKH01",
+    "SoTC": "2.0",
+    "MaLHP": "125520900701",
+    "MaGV": "2090048",
+    "GiangVien": "Trần Thị Thùy Trang"
+  },
+  {
+    "MaHP": "5504014",
+    "TenHP": "Điều khiển Logic PLC",
+    "TenLopHP": "125DPLC01",
+    "SoTC": "2.0",
+    "MaLHP": "125550401401",
+    "MaGV": "5040035",
+    "GiangVien": "Võ Quang Trường"
+  },
+  {
+    "MaHP": "5319001",
+    "TenHP": "Đại số tuyến tính",
+    "TenLopHP": "125DSTT01",
+    "SoTC": "2.0",
+    "MaLHP": "125531900101",
+    "MaGV": "3190046",
+    "GiangVien": "Nguyễn Lê Trâm"
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC101",
+    "SoTC": "1.0",
+    "MaLHP": "125501300101",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC102",
+    "SoTC": "1.0",
+    "MaLHP": "125501300102",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng chuyền",
+    "TenLopHP": "125GDTC301",
+    "SoTC": "1.0",
+    "MaLHP": "125501300301",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng chuyền",
+    "TenLopHP": "125GDTC302",
+    "SoTC": "1.0",
+    "MaLHP": "125501300302",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng đá",
+    "TenLopHP": "125GDTC311",
+    "SoTC": "1.0",
+    "MaLHP": "125501300311",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng đá",
+    "TenLopHP": "125GDTC312",
+    "SoTC": "1.0",
+    "MaLHP": "125501300312",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5504029",
+    "TenHP": "HT Truyền động Thủy khí",
+    "TenLopHP": "125HTDTK01",
+    "SoTC": "2.0",
+    "MaLHP": "125550402901",
+    "MaGV": "5050075",
+    "GiangVien": "Nguyễn Thị Ái Lành"
+  },
+  {
+    "MaHP": "5502003",
+    "TenHP": "Kỹ năng giao tiếp",
+    "TenLopHP": "125KNGT04",
+    "SoTC": "1.0",
+    "MaLHP": "125550200304",
+    "MaGV": "5140006",
+    "GiangVien": "Nguyễn Thị Lan Oanh"
+  },
+  {
+    "MaHP": "5502003",
+    "TenHP": "Kỹ năng giao tiếp",
+    "TenLopHP": "125KNGT05",
+    "SoTC": "1.0",
+    "MaLHP": "125550200305",
+    "MaGV": "5140006",
+    "GiangVien": "Nguyễn Thị Lan Oanh"
+  },
+  {
+    "MaHP": "5502003",
+    "TenHP": "Kỹ năng giao tiếp",
+    "TenLopHP": "125KNGT08",
+    "SoTC": "1.0",
+    "MaLHP": "125550200308",
+    "MaGV": "5140003",
+    "GiangVien": "Trần Thị Lợi"
+  },
+  {
+    "MaHP": "5502004",
+    "TenHP": "Kỹ năng làm việc nhóm",
+    "TenLopHP": "125KNLVN01",
+    "SoTC": "1.0",
+    "MaLHP": "125550200401",
+    "MaGV": "5140003",
+    "GiangVien": "Trần Thị Lợi"
+  },
+  {
+    "MaHP": "5504030",
+    "TenHP": "Kỹ thuật An toàn Cơ khí",
+    "TenLopHP": "125KTATCK01",
+    "SoTC": "2.0",
+    "MaLHP": "125550403001",
+    "MaGV": "5040060",
+    "GiangVien": "Đào Thanh Hùng"
+  },
+  {
+    "MaHP": "5209008",
+    "TenHP": "Lịch sử Đảng Cộng sản Việt Nam",
+    "TenLopHP": "125LSDCSVN01",
+    "SoTC": "2.0",
+    "MaLHP": "125520900801",
+    "MaGV": "2090001",
+    "GiangVien": "Đỗ Thị Hằng Nga"
+  },
+  {
+    "MaHP": "5504034",
+    "TenHP": "Máy cắt kim loại",
+    "TenLopHP": "125MCKL01",
+    "SoTC": "2.0",
+    "MaLHP": "125550403401",
+    "MaGV": "5040067",
+    "GiangVien": "Nguyễn Đức Long"
+  },
+  {
+    "MaHP": "5211005",
+    "TenHP": "Pháp luật đại cương",
+    "TenLopHP": "125PLDC01",
+    "SoTC": "2.0",
+    "MaLHP": "125521100501",
+    "MaGV": "5120004",
+    "GiangVien": "Nguyễn Thị Thanh Hà"
+  },
+  {
+    "MaHP": "5504046",
+    "TenHP": "Thiết kế khuôn mẫu",
+    "TenLopHP": "125TKKM03",
+    "SoTC": "2.0",
+    "MaLHP": "125550404603",
+    "MaGV": "5040007",
+    "GiangVien": "Ngô Tấn Thống"
+  },
+  {
+    "MaHP": "5504044",
+    "TenHP": "Thí nghiệm Kỹ thuật Đo",
+    "TenLopHP": "125TNKTD02",
+    "SoTC": "1.0",
+    "MaLHP": "125550404402",
+    "MaGV": "5040079",
+    "GiangVien": "Nguyễn Quang Dự"
+  },
+  {
+    "MaHP": "5504303",
+    "TenHP": "TN Vật liệu kỹ thuật",
+    "TenLopHP": "125TNVLKT2201",
+    "SoTC": "1.0",
+    "MaLHP": "125550430301",
+    "MaGV": "5040079",
+    "GiangVien": "Nguyễn Quang Dự"
+  },
+  {
+    "MaHP": "5504022",
+    "TenHP": "Dung sai đo lường",
+    "TenLopHP": "125DSDL01",
+    "SoTC": "2.0",
+    "MaLHP": "125550402201",
+    "MaGV": "5040077",
+    "GiangVien": "Hoàng Trọng Hiếu"
+  },
+  {
+    "MaHP": "5504270",
+    "TenHP": "Anh văn chuyên ngành",
+    "TenLopHP": "125AVCN02",
+    "SoTC": "2.0",
+    "MaLHP": "125550427002",
+    "MaGV": "5040047",
+    "GiangVien": "Nguyễn Xuân Bảo"
+  },
+  {
+    "MaHP": "5209007",
+    "TenHP": "Chủ nghĩa xã hội khoa học",
+    "TenLopHP": "125CNXHKH02",
+    "SoTC": "2.0",
+    "MaLHP": "125520900702",
+    "MaGV": "2090048",
+    "GiangVien": "Trần Thị Thùy Trang"
+  },
+  {
+    "MaHP": "5502003",
+    "TenHP": "Kỹ năng giao tiếp",
+    "TenLopHP": "125KNGT06",
+    "SoTC": "1.0",
+    "MaLHP": "125550200306",
+    "MaGV": "5140006",
+    "GiangVien": "Nguyễn Thị Lan Oanh"
+  },
+  {
+    "MaHP": "5502003",
+    "TenHP": "Kỹ năng giao tiếp",
+    "TenLopHP": "125KNGT09",
+    "SoTC": "1.0",
+    "MaLHP": "125550200309",
+    "MaGV": "5140006",
+    "GiangVien": "Nguyễn Thị Lan Oanh"
+  },
+  {
+    "MaHP": "5502004",
+    "TenHP": "Kỹ năng làm việc nhóm",
+    "TenLopHP": "125KNLVN02",
+    "SoTC": "1.0",
+    "MaLHP": "125550200402",
+    "MaGV": "5140003",
+    "GiangVien": "Trần Thị Lợi"
+  },
+  {
+    "MaHP": "5209008",
+    "TenHP": "Lịch sử Đảng Cộng sản Việt Nam",
+    "TenLopHP": "125LSDCSVN02",
+    "SoTC": "2.0",
+    "MaLHP": "125520900802",
+    "MaGV": "2090001",
+    "GiangVien": "Đỗ Thị Hằng Nga"
+  },
+  {
+    "MaHP": "5211005",
+    "TenHP": "Pháp luật đại cương",
+    "TenLopHP": "125PLDC02",
+    "SoTC": "2.0",
+    "MaLHP": "125521100502",
+    "MaGV": "5120004",
+    "GiangVien": "Nguyễn Thị Thanh Hà"
+  },
+  {
+    "MaHP": "5505251",
+    "TenHP": "Tin học cơ bản",
+    "TenLopHP": "125THCB01",
+    "SoTC": "2.0",
+    "MaLHP": "125550525101",
+    "MaGV": "5050037",
+    "GiangVien": "Nguyễn Thị Hà Quyên"
+  },
+  {
+    "MaHP": "5505251",
+    "TenHP": "Tin học cơ bản",
+    "TenLopHP": "125THCB05",
+    "SoTC": "2.0",
+    "MaLHP": "125550525105",
+    "MaGV": "5050046",
+    "GiangVien": "Phạm Thị Trà My"
+  },
+  {
+    "MaHP": "5505251",
+    "TenHP": "Tin học cơ bản",
+    "TenLopHP": "125THCB08",
+    "SoTC": "2.0",
+    "MaLHP": "125550525108",
+    "MaGV": "5050027",
+    "GiangVien": "Nguyễn Văn Phát"
+  },
+  {
+    "MaHP": "5505251",
+    "TenHP": "Tin học cơ bản",
+    "TenLopHP": "125THCB10",
+    "SoTC": "2.0",
+    "MaLHP": "125550525110",
+    "MaGV": "5050045",
+    "GiangVien": "Trần Bửu Dung"
+  },
+  {
+    "MaHP": "5209005",
+    "TenHP": "Triết học Mác-Lênin",
+    "TenLopHP": "125THML01",
+    "SoTC": "3.0",
+    "MaLHP": "125520900501",
+    "MaGV": "5090187",
+    "GiangVien": "Phạm Huy Thành"
+  },
+  {
+    "MaHP": "5504046",
+    "TenHP": "Thiết kế khuôn mẫu",
+    "TenLopHP": "125TKKM04",
+    "SoTC": "2.0",
+    "MaLHP": "125550404604",
+    "MaGV": "5040007",
+    "GiangVien": "Ngô Tấn Thống"
+  },
+  {
+    "MaHP": "5504017",
+    "TenHP": "Đồ án CN Chế tạo Máy",
+    "TenLopHP": "125DACCTM01",
+    "SoTC": "2.0",
+    "MaLHP": "125550401701",
+    "MaGV": "5040047",
+    "GiangVien": "Nguyễn Xuân Bảo"
+  },
+  {
+    "MaHP": "5504271",
+    "TenHP": "Đồ án Tính toán, thiết kế Cơ khí",
+    "TenLopHP": "125DATTTKCK02",
+    "SoTC": "2.0",
+    "MaLHP": "125550427102",
+    "MaGV": "5040051",
+    "GiangVien": "Nguyễn Thái Dương"
+  },
+  {
+    "MaHP": "5504019",
+    "TenHP": "Đồ án tốt nghiệp CTM",
+    "TenLopHP": "125DTNCK01",
+    "SoTC": "10.0",
+    "MaLHP": "125550401901",
+    "MaGV": "5040047",
+    "GiangVien": "Nguyễn Xuân Bảo"
+  },
+  {
+    "MaHP": "5504009",
+    "TenHP": "Công nghệ CAD/CAM/CNC",
+    "TenLopHP": "125CNC01",
+    "SoTC": "2.0",
+    "MaLHP": "125550400901",
+    "MaGV": "5040061",
+    "GiangVien": "Phan Nguyễn Duy Minh"
+  },
+  {
+    "MaHP": "5504022",
+    "TenHP": "Dung sai đo lường",
+    "TenLopHP": "125DSDL02",
+    "SoTC": "2.0",
+    "MaLHP": "125550402202",
+    "MaGV": "5040077",
+    "GiangVien": "Hoàng Trọng Hiếu"
+  },
+  {
+    "MaHP": "5319001",
+    "TenHP": "Đại số tuyến tính",
+    "TenLopHP": "125DSTT02",
+    "SoTC": "2.0",
+    "MaLHP": "125531900102",
+    "MaGV": "3190046",
+    "GiangVien": "Nguyễn Lê Trâm"
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC103",
+    "SoTC": "1.0",
+    "MaLHP": "125501300103",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC104",
+    "SoTC": "1.0",
+    "MaLHP": "125501300104",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng đá",
+    "TenLopHP": "125GDTC313",
+    "SoTC": "1.0",
+    "MaLHP": "125501300313",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng đá",
+    "TenLopHP": "125GDTC314",
+    "SoTC": "1.0",
+    "MaLHP": "125501300314",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Cầu lông",
+    "TenLopHP": "125GDTC325",
+    "SoTC": "1.0",
+    "MaLHP": "125501300325",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Cầu lông",
+    "TenLopHP": "125GDTC326",
+    "SoTC": "1.0",
+    "MaLHP": "125501300326",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5209004",
+    "TenHP": "Tư tưởng Hồ Chí Minh",
+    "TenLopHP": "125HCM01",
+    "SoTC": "2.0",
+    "MaLHP": "125520900401",
+    "MaGV": "5090232",
+    "GiangVien": "Lê Thị Ngọc Hoa"
+  },
+  {
+    "MaHP": "5502009",
+    "TenHP": "Kỹ năng lãnh đạo, quản lý",
+    "TenLopHP": "125KNLDQL02",
+    "SoTC": "2.0",
+    "MaLHP": "125550200902",
+    "MaGV": "5050074",
+    "GiangVien": "Trần Lê Nhật Hoàng"
+  },
+  {
+    "MaHP": "5211005",
+    "TenHP": "Pháp luật đại cương",
+    "TenLopHP": "125PLDC03",
+    "SoTC": "2.0",
+    "MaLHP": "125521100503",
+    "MaGV": "5090181",
+    "GiangVien": "Lê Thị Phương Trang"
+  },
+  {
+    "MaHP": "5504279",
+    "TenHP": "Tin học ứng dụng trong Cơ khí",
+    "TenLopHP": "125THUDTCK01",
+    "SoTC": "2.0",
+    "MaLHP": "125550427901",
+    "MaGV": "5040074",
+    "GiangVien": "Huỳnh Hải"
+  },
+  {
+    "MaHP": "5504305",
+    "TenHP": "TN Công nghệ Chế tạo Máy",
+    "TenLopHP": "125TNCNCTM2201",
+    "SoTC": "1.0",
+    "MaLHP": "125550430501",
+    "MaGV": "5040067",
+    "GiangVien": "Nguyễn Đức Long"
+  },
+  {
+    "MaHP": "5504303",
+    "TenHP": "TN Vật liệu kỹ thuật",
+    "TenLopHP": "125TNVLKT2202",
+    "SoTC": "1.0",
+    "MaLHP": "125550430302",
+    "MaGV": "5040079",
+    "GiangVien": "Nguyễn Quang Dự"
+  },
+  {
+    "MaHP": "5504055",
+    "TenHP": "TN Sức bền & Kim loại học",
+    "TenLopHP": "125TSB&KLH01",
+    "SoTC": "1.0",
+    "MaLHP": "125550405501",
+    "MaGV": "5040057",
+    "GiangVien": "Nguyễn Lê Văn"
+  },
+  {
+    "MaHP": "5504079",
+    "TenHP": "TTCM Tiện",
+    "TenLopHP": "125TTCB05",
+    "SoTC": "3.0",
+    "MaLHP": "125550407905",
+    "MaGV": "5040018",
+    "GiangVien": "Huỳnh Văn Sanh"
+  },
+  {
+    "MaHP": "5319002",
+    "TenHP": "Giải tích I",
+    "TenLopHP": "125GT106",
+    "SoTC": "3.0",
+    "MaLHP": "125531900206",
+    "MaGV": "3190046",
+    "GiangVien": "Nguyễn Lê Trâm"
+  },
+  {
+    "MaHP": "5209004",
+    "TenHP": "Tư tưởng Hồ Chí Minh",
+    "TenLopHP": "125HCM02",
+    "SoTC": "2.0",
+    "MaLHP": "125520900402",
+    "MaGV": "5090232",
+    "GiangVien": "Lê Thị Ngọc Hoa"
+  },
+  {
+    "MaHP": "5502009",
+    "TenHP": "Kỹ năng lãnh đạo, quản lý",
+    "TenLopHP": "125KNLDQL01",
+    "SoTC": "2.0",
+    "MaLHP": "125550200901",
+    "MaGV": "5050074",
+    "GiangVien": "Trần Lê Nhật Hoàng"
+  },
+  {
+    "MaHP": "5211005",
+    "TenHP": "Pháp luật đại cương",
+    "TenLopHP": "125PLDC04",
+    "SoTC": "2.0",
+    "MaLHP": "125521100504",
+    "MaGV": "5090181",
+    "GiangVien": "Lê Thị Phương Trang"
+  },
+  {
+    "MaHP": "5504040",
+    "TenHP": "Sức bền vật liệu",
+    "TenLopHP": "125SBVL01",
+    "SoTC": "3.0",
+    "MaLHP": "125550404001",
+    "MaGV": "5040044",
+    "GiangVien": "Nguyễn Thị Hải Vân"
+  },
+  {
+    "MaHP": "5209005",
+    "TenHP": "Triết học Mác-Lênin",
+    "TenLopHP": "125THML02",
+    "SoTC": "3.0",
+    "MaLHP": "125520900502",
+    "MaGV": "2090038",
+    "GiangVien": "Lưu Thị Mai Thanh"
+  },
+  {
+    "MaHP": "5504016",
+    "TenHP": "Đồ án Chi Tiết Máy",
+    "TenLopHP": "125DACTM03",
+    "SoTC": "2.0",
+    "MaLHP": "125550401603",
+    "MaGV": "5040051",
+    "GiangVien": "Nguyễn Thái Dương"
+  },
+  {
+    "MaHP": "5504004",
+    "TenHP": "Chi tiết máy",
+    "TenLopHP": "125CTM01",
+    "SoTC": "2.0",
+    "MaLHP": "125550400401",
+    "MaGV": "5040051",
+    "GiangVien": "Nguyễn Thái Dương"
+  },
+  {
+    "MaHP": "5504021",
+    "TenHP": "Động cơ đốt trong",
+    "TenLopHP": "125DCDT01",
+    "SoTC": "2.0",
+    "MaLHP": "125550402101",
+    "MaGV": "5040059",
+    "GiangVien": "Phùng Minh Tùng"
+  },
+  {
+    "MaHP": "5319001",
+    "TenHP": "Đại số tuyến tính",
+    "TenLopHP": "125DSTT03",
+    "SoTC": "2.0",
+    "MaLHP": "125531900103",
+    "MaGV": "3190040",
+    "GiangVien": "Nguyễn Thị Thu Sương"
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC105",
+    "SoTC": "1.0",
+    "MaLHP": "125501300105",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC106",
+    "SoTC": "1.0",
+    "MaLHP": "125501300106",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng đá",
+    "TenLopHP": "125GDTC316",
+    "SoTC": "1.0",
+    "MaLHP": "125501300316",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Võ Vinam",
+    "TenLopHP": "125GDTC331",
+    "SoTC": "1.0",
+    "MaLHP": "125501300331",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Võ Vinam",
+    "TenLopHP": "125GDTC332",
+    "SoTC": "1.0",
+    "MaLHP": "125501300332",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5504029",
+    "TenHP": "HT Truyền động Thủy khí",
+    "TenLopHP": "125HTDTK02",
+    "SoTC": "2.0",
+    "MaLHP": "125550402902",
+    "MaGV": "5050075",
+    "GiangVien": "Nguyễn Thị Ái Lành"
+  },
+  {
+    "MaHP": "5504030",
+    "TenHP": "Kỹ thuật An toàn Cơ khí",
+    "TenLopHP": "125KTATCK02",
+    "SoTC": "2.0",
+    "MaLHP": "125550403002",
+    "MaGV": "5040060",
+    "GiangVien": "Đào Thanh Hùng"
+  },
+  {
+    "MaHP": "5504165",
+    "TenHP": "Nhập môn ngành CK",
+    "TenLopHP": "125NMNCK02",
+    "SoTC": "2.0",
+    "MaLHP": "125550416502",
+    "MaGV": "5040077",
+    "GiangVien": "Hoàng Trọng Hiếu"
+  },
+  {
+    "MaHP": "5211005",
+    "TenHP": "Pháp luật đại cương",
+    "TenLopHP": "125PLDC05",
+    "SoTC": "2.0",
+    "MaLHP": "125521100505",
+    "MaGV": "5090309",
+    "GiangVien": "Lê Thị Bích  Thủy"
+  },
+  {
+    "MaHP": "5504260",
+    "TenHP": "THCM Phay-Bào",
+    "TenLopHP": "125THCMPB01",
+    "SoTC": "2.0",
+    "MaLHP": "125550426001",
+    "MaGV": "5040067",
+    "GiangVien": "Nguyễn Đức Long"
+  },
+  {
+    "MaHP": "5504279",
+    "TenHP": "Tin học ứng dụng trong Cơ khí",
+    "TenLopHP": "125THUDTCK02",
+    "SoTC": "2.0",
+    "MaLHP": "125550427902",
+    "MaGV": "5040074",
+    "GiangVien": "Huỳnh Hải"
+  },
+  {
+    "MaHP": "5504046",
+    "TenHP": "Thiết kế khuôn mẫu",
+    "TenLopHP": "125TKKM01",
+    "SoTC": "2.0",
+    "MaLHP": "125550404601",
+    "MaGV": "5040007",
+    "GiangVien": "Ngô Tấn Thống"
+  },
+  {
+    "MaHP": "5504303",
+    "TenHP": "TN Vật liệu kỹ thuật",
+    "TenLopHP": "125TNVLKT2203",
+    "SoTC": "1.0",
+    "MaLHP": "125550430303",
+    "MaGV": "5040079",
+    "GiangVien": "Nguyễn Quang Dự"
+  },
+  {
+    "MaHP": "5504252",
+    "TenHP": "Toán ứng dụng cơ khí",
+    "TenLopHP": "125TUDCK01",
+    "SoTC": "2.0",
+    "MaLHP": "125550425201",
+    "MaGV": "5040047",
+    "GiangVien": "Nguyễn Xuân Bảo"
+  },
+  {
+    "MaHP": "5319002",
+    "TenHP": "Giải tích I",
+    "TenLopHP": "125GT103",
+    "SoTC": "3.0",
+    "MaLHP": "125531900203",
+    "MaGV": "3190040",
+    "GiangVien": "Nguyễn Thị Thu Sương"
+  },
+  {
+    "MaHP": "5504029",
+    "TenHP": "HT Truyền động Thủy khí",
+    "TenLopHP": "125HTDTK03",
+    "SoTC": "2.0",
+    "MaLHP": "125550402903",
+    "MaGV": "5050075",
+    "GiangVien": "Nguyễn Thị Ái Lành"
+  },
+  {
+    "MaHP": "5504165",
+    "TenHP": "Nhập môn ngành CK",
+    "TenLopHP": "125NMNCK03",
+    "SoTC": "2.0",
+    "MaLHP": "125550416503",
+    "MaGV": "5040051",
+    "GiangVien": "Nguyễn Thái Dương"
+  },
+  {
+    "MaHP": "5211005",
+    "TenHP": "Pháp luật đại cương",
+    "TenLopHP": "125PLDC06",
+    "SoTC": "2.0",
+    "MaLHP": "125521100506",
+    "MaGV": "5090309",
+    "GiangVien": "Lê Thị Bích  Thủy"
+  },
+  {
+    "MaHP": "5505251",
+    "TenHP": "Tin học cơ bản",
+    "TenLopHP": "125THCB07",
+    "SoTC": "2.0",
+    "MaLHP": "125550525107",
+    "MaGV": "5050037",
+    "GiangVien": "Nguyễn Thị Hà Quyên"
+  },
+  {
+    "MaHP": "5209005",
+    "TenHP": "Triết học Mác-Lênin",
+    "TenLopHP": "125THML03",
+    "SoTC": "3.0",
+    "MaLHP": "125520900503",
+    "MaGV": "2090040",
+    "GiangVien": "Lê Văn Thao"
+  },
+  {
+    "MaHP": "5504046",
+    "TenHP": "Thiết kế khuôn mẫu",
+    "TenLopHP": "125TKKM02",
+    "SoTC": "2.0",
+    "MaLHP": "125550404602",
+    "MaGV": "5040007",
+    "GiangVien": "Ngô Tấn Thống"
+  },
+  {
+    "MaHP": "5504252",
+    "TenHP": "Toán ứng dụng cơ khí",
+    "TenLopHP": "125TUDCK02",
+    "SoTC": "2.0",
+    "MaLHP": "125550425202",
+    "MaGV": "5040047",
+    "GiangVien": "Nguyễn Xuân Bảo"
+  },
+  {
+    "MaHP": "5504017",
+    "TenHP": "Đồ án CN Chế tạo Máy",
+    "TenLopHP": "125DACCTM02",
+    "SoTC": "2.0",
+    "MaLHP": "125550401702",
+    "MaGV": "5040047",
+    "GiangVien": "Nguyễn Xuân Bảo"
+  },
+  {
+    "MaHP": "5504009",
+    "TenHP": "Công nghệ CAD/CAM/CNC",
+    "TenLopHP": "125CNC02",
+    "SoTC": "2.0",
+    "MaLHP": "125550400902",
+    "MaGV": "5040061",
+    "GiangVien": "Phan Nguyễn Duy Minh"
+  },
+  {
+    "MaHP": "5504265",
+    "TenHP": "Các phương pháp gia công đặc biệt",
+    "TenLopHP": "125CPPGCDB01",
+    "SoTC": "2.0",
+    "MaLHP": "125550426501",
+    "MaGV": "5040007",
+    "GiangVien": "Ngô Tấn Thống"
+  },
+  {
+    "MaHP": "5504272",
+    "TenHP": "Dao động kỹ thuật",
+    "TenLopHP": "125DDKT01",
+    "SoTC": "2.0",
+    "MaLHP": "125550427201",
+    "MaGV": "5040047",
+    "GiangVien": "Nguyễn Xuân Bảo"
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC107",
+    "SoTC": "1.0",
+    "MaLHP": "125501300107",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC108",
+    "SoTC": "1.0",
+    "MaLHP": "125501300108",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng chuyền",
+    "TenLopHP": "125GDTC303",
+    "SoTC": "1.0",
+    "MaLHP": "125501300303",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng chuyền",
+    "TenLopHP": "125GDTC304",
+    "SoTC": "1.0",
+    "MaLHP": "125501300304",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng đá",
+    "TenLopHP": "125GDTC317",
+    "SoTC": "1.0",
+    "MaLHP": "125501300317",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng đá",
+    "TenLopHP": "125GDTC318",
+    "SoTC": "1.0",
+    "MaLHP": "125501300318",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5209004",
+    "TenHP": "Tư tưởng Hồ Chí Minh",
+    "TenLopHP": "125HCM03",
+    "SoTC": "2.0",
+    "MaLHP": "125520900403",
+    "MaGV": "2090044",
+    "GiangVien": "Phạm Đức Thọ"
+  },
+  {
+    "MaHP": "5502009",
+    "TenHP": "Kỹ năng lãnh đạo, quản lý",
+    "TenLopHP": "125KNLDQL03",
+    "SoTC": "2.0",
+    "MaLHP": "125550200903",
+    "MaGV": "5050074",
+    "GiangVien": "Trần Lê Nhật Hoàng"
+  },
+  {
+    "MaHP": "5504031",
+    "TenHP": "Kỹ Thuật Nhiệt",
+    "TenLopHP": "125KTN01",
+    "SoTC": "2.0",
+    "MaLHP": "125550403101",
+    "MaGV": "5040031",
+    "GiangVien": "Nguyễn Thị Hồng Nhung"
+  },
+  {
+    "MaHP": "5209008",
+    "TenHP": "Lịch sử Đảng Cộng sản Việt Nam",
+    "TenLopHP": "125LSDCSVN03",
+    "SoTC": "2.0",
+    "MaLHP": "125520900803",
+    "MaGV": "2090042",
+    "GiangVien": "Đinh Văn Trọng"
+  },
+  {
+    "MaHP": "5504165",
+    "TenHP": "Nhập môn ngành CK",
+    "TenLopHP": "125NMNCK04",
+    "SoTC": "2.0",
+    "MaLHP": "125550416504",
+    "MaGV": "5040074",
+    "GiangVien": "Huỳnh Hải"
+  },
+  {
+    "MaHP": "5211005",
+    "TenHP": "Pháp luật đại cương",
+    "TenLopHP": "125PLDC07",
+    "SoTC": "2.0",
+    "MaLHP": "125521100507",
+    "MaGV": "5090181",
+    "GiangVien": "Lê Thị Phương Trang"
+  },
+  {
+    "MaHP": "5504261",
+    "TenHP": "THCM Đúc-Rèn-Dập",
+    "TenLopHP": "125THCMDRD01",
+    "SoTC": "2.0",
+    "MaLHP": "125550426101",
+    "MaGV": "5040033",
+    "GiangVien": "Nguyễn Thanh Tân"
+  },
+  {
+    "MaHP": "5504305",
+    "TenHP": "TN Công nghệ Chế tạo Máy",
+    "TenLopHP": "125TNCNCTM2202",
+    "SoTC": "1.0",
+    "MaLHP": "125550430502",
+    "MaGV": "5040067",
+    "GiangVien": "Nguyễn Đức Long"
+  },
+  {
+    "MaHP": "5504044",
+    "TenHP": "Thí nghiệm Kỹ thuật Đo",
+    "TenLopHP": "125TNKTD01",
+    "SoTC": "1.0",
+    "MaLHP": "125550404401",
+    "MaGV": "5040051",
+    "GiangVien": "Nguyễn Thái Dương"
+  },
+  {
+    "MaHP": "5504303",
+    "TenHP": "TN Vật liệu kỹ thuật",
+    "TenLopHP": "125TNVLKT2205",
+    "SoTC": "1.0",
+    "MaLHP": "125550430305",
+    "MaGV": "5040077",
+    "GiangVien": "Hoàng Trọng Hiếu"
+  },
+  {
+    "MaHP": "5504303",
+    "TenHP": "TN Vật liệu kỹ thuật",
+    "TenLopHP": "125TNVLKT2206",
+    "SoTC": "1.0",
+    "MaLHP": "125550430306",
+    "MaGV": "5040077",
+    "GiangVien": "Hoàng Trọng Hiếu"
+  },
+  {
+    "MaHP": "5504304",
+    "TenHP": "Tối ưu hoá trong Cơ khí",
+    "TenLopHP": "125TUHTCK2201",
+    "SoTC": "2.0",
+    "MaLHP": "125550430401",
+    "MaGV": "5040042",
+    "GiangVien": "Bùi Hệ Thống"
+  },
+  {
+    "MaHP": "5504302",
+    "TenHP": "Vẽ Cơ khí",
+    "TenLopHP": "125VCK2201",
+    "SoTC": "2.0",
+    "MaLHP": "125550430201",
+    "MaGV": "5040060",
+    "GiangVien": "Đào Thanh Hùng"
+  },
+  {
+    "MaHP": "5305002",
+    "TenHP": "Vật lý Cơ - Nhiệt",
+    "TenLopHP": "125VLCN01",
+    "SoTC": "2.0",
+    "MaLHP": "125530500201",
+    "MaGV": "5090266",
+    "GiangVien": "Lê Thị Minh Phương"
+  },
+  {
+    "MaHP": "5209004",
+    "TenHP": "Tư tưởng Hồ Chí Minh",
+    "TenLopHP": "125HCM04",
+    "SoTC": "2.0",
+    "MaLHP": "125520900404",
+    "MaGV": "2090044",
+    "GiangVien": "Phạm Đức Thọ"
+  },
+  {
+    "MaHP": "5504026",
+    "TenHP": "Hình họa - Vẽ kỹ thuật",
+    "TenLopHP": "125HH-VKT01",
+    "SoTC": "3.0",
+    "MaLHP": "125550402601",
+    "MaGV": "5040065",
+    "GiangVien": "Lê Thị Thùy Linh"
+  },
+  {
+    "MaHP": "5502009",
+    "TenHP": "Kỹ năng lãnh đạo, quản lý",
+    "TenLopHP": "125KNLDQL04",
+    "SoTC": "2.0",
+    "MaLHP": "125550200904",
+    "MaGV": "5050074",
+    "GiangVien": "Trần Lê Nhật Hoàng"
+  },
+  {
+    "MaHP": "5209008",
+    "TenHP": "Lịch sử Đảng Cộng sản Việt Nam",
+    "TenLopHP": "125LSDCSVN04",
+    "SoTC": "2.0",
+    "MaLHP": "125520900804",
+    "MaGV": "2090042",
+    "GiangVien": "Đinh Văn Trọng"
+  },
+  {
+    "MaHP": "5211005",
+    "TenHP": "Pháp luật đại cương",
+    "TenLopHP": "125PLDC08",
+    "SoTC": "2.0",
+    "MaLHP": "125521100508",
+    "MaGV": "5090181",
+    "GiangVien": "Lê Thị Phương Trang"
+  },
+  {
+    "MaHP": "5504040",
+    "TenHP": "Sức bền vật liệu",
+    "TenLopHP": "125SBVL04",
+    "SoTC": "3.0",
+    "MaLHP": "125550404004",
+    "MaGV": "5060039",
+    "GiangVien": "Đặng Ngọc Thành"
+  },
+  {
+    "MaHP": "5209005",
+    "TenHP": "Triết học Mác-Lênin",
+    "TenLopHP": "125THML04",
+    "SoTC": "3.0",
+    "MaLHP": "125520900504",
+    "MaGV": "2090017",
+    "GiangVien": "Trần Hồng Lưu"
+  },
+  {
+    "MaHP": "5305002",
+    "TenHP": "Vật lý Cơ - Nhiệt",
+    "TenLopHP": "125VLCN02",
+    "SoTC": "2.0",
+    "MaLHP": "125530500202",
+    "MaGV": "5090266",
+    "GiangVien": "Lê Thị Minh Phương"
+  },
+  {
+    "MaHP": "5504016",
+    "TenHP": "Đồ án Chi Tiết Máy",
+    "TenLopHP": "125DACTM04",
+    "SoTC": "2.0",
+    "MaLHP": "125550401604",
+    "MaGV": "5040051",
+    "GiangVien": "Nguyễn Thái Dương"
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC109",
+    "SoTC": "1.0",
+    "MaLHP": "125501300109",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC110",
+    "SoTC": "1.0",
+    "MaLHP": "125501300110",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng đá",
+    "TenLopHP": "125GDTC319",
+    "SoTC": "1.0",
+    "MaLHP": "125501300319",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng đá",
+    "TenLopHP": "125GDTC320",
+    "SoTC": "1.0",
+    "MaLHP": "125501300320",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Cầu lông",
+    "TenLopHP": "125GDTC327",
+    "SoTC": "1.0",
+    "MaLHP": "125501300327",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Cầu lông",
+    "TenLopHP": "125GDTC328",
+    "SoTC": "1.0",
+    "MaLHP": "125501300328",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5209004",
+    "TenHP": "Tư tưởng Hồ Chí Minh",
+    "TenLopHP": "125HCM05",
+    "SoTC": "2.0",
+    "MaLHP": "125520900405",
+    "MaGV": "2090044",
+    "GiangVien": "Phạm Đức Thọ"
+  },
+  {
+    "MaHP": "5209004",
+    "TenHP": "Tư tưởng Hồ Chí Minh",
+    "TenLopHP": "125HCM09",
+    "SoTC": "2.0",
+    "MaLHP": "125520900409",
+    "MaGV": "5090225",
+    "GiangVien": "Lê Sơn"
+  },
+  {
+    "MaHP": "5504029",
+    "TenHP": "HT Truyền động Thủy khí",
+    "TenLopHP": "125HTDTK04",
+    "SoTC": "2.0",
+    "MaLHP": "125550402904",
+    "MaGV": "5050075",
+    "GiangVien": "Nguyễn Thị Ái Lành"
+  },
+  {
+    "MaHP": "5504273",
+    "TenHP": "Hệ thống sản xuất tích hợp CIM",
+    "TenLopHP": "125HTSXTHCIM01",
+    "SoTC": "2.0",
+    "MaLHP": "125550427301",
+    "MaGV": "5040007",
+    "GiangVien": "Ngô Tấn Thống"
+  },
+  {
+    "MaHP": "5502003",
+    "TenHP": "Kỹ năng giao tiếp",
+    "TenLopHP": "125KNGT10",
+    "SoTC": "1.0",
+    "MaLHP": "125550200310",
+    "MaGV": "5140006",
+    "GiangVien": "Nguyễn Thị Lan Oanh"
+  },
+  {
+    "MaHP": "5504264",
+    "TenHP": "Kỹ thuật ô tô",
+    "TenLopHP": "125KTOTO01",
+    "SoTC": "2.0",
+    "MaLHP": "125550426401",
+    "MaGV": "5040006",
+    "GiangVien": "Nguyễn Lê Châu Thành"
+  },
+  {
+    "MaHP": "5209008",
+    "TenHP": "Lịch sử Đảng Cộng sản Việt Nam",
+    "TenLopHP": "125LSDCSVN05",
+    "SoTC": "2.0",
+    "MaLHP": "125520900805",
+    "MaGV": "2090043",
+    "GiangVien": "Từ Ánh Nguyệt"
+  },
+  {
+    "MaHP": "5504279",
+    "TenHP": "Tin học ứng dụng trong Cơ khí",
+    "TenLopHP": "125THUDTCK03",
+    "SoTC": "2.0",
+    "MaLHP": "125550427903",
+    "MaGV": "5040074",
+    "GiangVien": "Huỳnh Hải"
+  },
+  {
+    "MaHP": "5504305",
+    "TenHP": "TN Công nghệ Chế tạo Máy",
+    "TenLopHP": "125TNCNCTM2203",
+    "SoTC": "1.0",
+    "MaLHP": "125550430503",
+    "MaGV": "5040067",
+    "GiangVien": "Nguyễn Đức Long"
+  },
+  {
+    "MaHP": "5504303",
+    "TenHP": "TN Vật liệu kỹ thuật",
+    "TenLopHP": "125TNVLKT2204",
+    "SoTC": "1.0",
+    "MaLHP": "125550430304",
+    "MaGV": "5040079",
+    "GiangVien": "Nguyễn Quang Dự"
+  },
+  {
+    "MaHP": "5504037",
+    "TenHP": "Nguyên lý máy",
+    "TenLopHP": "125NLM01",
+    "SoTC": "2.0",
+    "MaLHP": "125550403701",
+    "MaGV": "5040057",
+    "GiangVien": "Nguyễn Lê Văn"
+  },
+  {
+    "MaHP": "5504084",
+    "TenHP": "Vật liệu kỹ thuật",
+    "TenLopHP": "125VLKT01",
+    "SoTC": "2.0",
+    "MaLHP": "125550408401",
+    "MaGV": "5040077",
+    "GiangVien": "Hoàng Trọng Hiếu"
+  },
+  {
+    "MaHP": "5209004",
+    "TenHP": "Tư tưởng Hồ Chí Minh",
+    "TenLopHP": "125HCM06",
+    "SoTC": "2.0",
+    "MaLHP": "125520900406",
+    "MaGV": "2090044",
+    "GiangVien": "Phạm Đức Thọ"
+  },
+  {
+    "MaHP": "5209004",
+    "TenHP": "Tư tưởng Hồ Chí Minh",
+    "TenLopHP": "125HCM10",
+    "SoTC": "2.0",
+    "MaLHP": "125520900410",
+    "MaGV": "5090225",
+    "GiangVien": "Lê Sơn"
+  },
+  {
+    "MaHP": "5504273",
+    "TenHP": "Hệ thống sản xuất tích hợp CIM",
+    "TenLopHP": "125HTSXTHCIM02",
+    "SoTC": "2.0",
+    "MaLHP": "125550427302",
+    "MaGV": "5040007",
+    "GiangVien": "Ngô Tấn Thống"
+  },
+  {
+    "MaHP": "5209008",
+    "TenHP": "Lịch sử Đảng Cộng sản Việt Nam",
+    "TenLopHP": "125LSDCSVN06",
+    "SoTC": "2.0",
+    "MaLHP": "125520900806",
+    "MaGV": "2090043",
+    "GiangVien": "Từ Ánh Nguyệt"
+  },
+  {
+    "MaHP": "5209005",
+    "TenHP": "Triết học Mác-Lênin",
+    "TenLopHP": "125THML05",
+    "SoTC": "3.0",
+    "MaLHP": "125520900505",
+    "MaGV": "2090017",
+    "GiangVien": "Trần Hồng Lưu"
+  },
+  {
+    "MaHP": "5504017",
+    "TenHP": "Đồ án CN Chế tạo Máy",
+    "TenLopHP": "125DACCTM03",
+    "SoTC": "2.0",
+    "MaLHP": "125550401703",
+    "MaGV": "5040042",
+    "GiangVien": "Bùi Hệ Thống"
+  },
+  {
+    "MaHP": "5504003",
+    "TenHP": "Cắt gọt kim loại",
+    "TenLopHP": "125CGKL01",
+    "SoTC": "2.0",
+    "MaLHP": "125550400301",
+    "MaGV": "5040001",
+    "GiangVien": "Trần Quốc Việt"
+  },
+  {
+    "MaHP": "5504009",
+    "TenHP": "Công nghệ CAD/CAM/CNC",
+    "TenLopHP": "125CNC03",
+    "SoTC": "2.0",
+    "MaLHP": "125550400903",
+    "MaGV": "5040061",
+    "GiangVien": "Phan Nguyễn Duy Minh"
+  },
+  {
+    "MaHP": "5209007",
+    "TenHP": "Chủ nghĩa xã hội khoa học",
+    "TenLopHP": "125CNXHKH05",
+    "SoTC": "2.0",
+    "MaLHP": "125520900705",
+    "MaGV": "2090045",
+    "GiangVien": "Trương Thị Thu Hiền"
+  },
+  {
+    "MaHP": "5502010",
+    "TenHP": "Đổi mới, sáng tạo, khởi nghiệp",
+    "TenLopHP": "125DMSTKN02",
+    "SoTC": "2.0",
+    "MaLHP": "125550201002",
+    "MaGV": "1090015",
+    "GiangVien": "Phan Cao Thọ"
+  },
+  {
+    "MaHP": "5502010",
+    "TenHP": "Đổi mới, sáng tạo, khởi nghiệp",
+    "TenLopHP": "125DMSTKN03",
+    "SoTC": "2.0",
+    "MaLHP": "125550201003",
+    "MaGV": "1020007",
+    "GiangVien": "Võ Trung Hùng"
+  },
+  {
+    "MaHP": "5319001",
+    "TenHP": "Đại số tuyến tính",
+    "TenLopHP": "125DSTT04",
+    "SoTC": "2.0",
+    "MaLHP": "125531900104",
+    "MaGV": "3190040",
+    "GiangVien": "Nguyễn Thị Thu Sương"
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC111",
+    "SoTC": "1.0",
+    "MaLHP": "125501300111",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC112",
+    "SoTC": "1.0",
+    "MaLHP": "125501300112",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng rổ",
+    "TenLopHP": "125GDTC321",
+    "SoTC": "1.0",
+    "MaLHP": "125501300321",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng rổ",
+    "TenLopHP": "125GDTC322",
+    "SoTC": "1.0",
+    "MaLHP": "125501300322",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5502004",
+    "TenHP": "Kỹ năng làm việc nhóm",
+    "TenLopHP": "125KNLVN03",
+    "SoTC": "1.0",
+    "MaLHP": "125550200403",
+    "MaGV": "5140003",
+    "GiangVien": "Trần Thị Lợi"
+  },
+  {
+    "MaHP": "5504031",
+    "TenHP": "Kỹ Thuật Nhiệt",
+    "TenLopHP": "125KTN03",
+    "SoTC": "2.0",
+    "MaLHP": "125550403103",
+    "MaGV": "5040031",
+    "GiangVien": "Nguyễn Thị Hồng Nhung"
+  },
+  {
+    "MaHP": "5504256",
+    "TenHP": "Thiết kế cơ khí 3D",
+    "TenLopHP": "125TKCK3D01",
+    "SoTC": "2.0",
+    "MaLHP": "125550425601",
+    "MaGV": "5040079",
+    "GiangVien": "Nguyễn Quang Dự"
+  },
+  {
+    "MaHP": "5504079",
+    "TenHP": "TTCM Tiện",
+    "TenLopHP": "125TTCB01",
+    "SoTC": "3.0",
+    "MaLHP": "125550407901",
+    "MaGV": "5040067",
+    "GiangVien": "Nguyễn Đức Long"
+  },
+  {
+    "MaHP": "5504084",
+    "TenHP": "Vật liệu kỹ thuật",
+    "TenLopHP": "125VLKT02",
+    "SoTC": "2.0",
+    "MaLHP": "125550408402",
+    "MaGV": "5040077",
+    "GiangVien": "Hoàng Trọng Hiếu"
+  },
+  {
+    "MaHP": "5504084",
+    "TenHP": "Vật liệu kỹ thuật",
+    "TenLopHP": "125VLKT03",
+    "SoTC": "2.0",
+    "MaLHP": "125550408403",
+    "MaGV": "5040077",
+    "GiangVien": "Hoàng Trọng Hiếu"
+  },
+  {
+    "MaHP": "5209007",
+    "TenHP": "Chủ nghĩa xã hội khoa học",
+    "TenLopHP": "125CNXHKH06",
+    "SoTC": "2.0",
+    "MaLHP": "125520900706",
+    "MaGV": "2090045",
+    "GiangVien": "Trương Thị Thu Hiền"
+  },
+  {
+    "MaHP": "5502010",
+    "TenHP": "Đổi mới, sáng tạo, khởi nghiệp",
+    "TenLopHP": "125DMSTKN04",
+    "SoTC": "2.0",
+    "MaLHP": "125550201004",
+    "MaGV": "1020007",
+    "GiangVien": "Võ Trung Hùng"
+  },
+  {
+    "MaHP": "5319002",
+    "TenHP": "Giải tích I",
+    "TenLopHP": "125GT102",
+    "SoTC": "3.0",
+    "MaLHP": "125531900202",
+    "MaGV": "3190040",
+    "GiangVien": "Nguyễn Thị Thu Sương"
+  },
+  {
+    "MaHP": "5504026",
+    "TenHP": "Hình họa - Vẽ kỹ thuật",
+    "TenLopHP": "125HH-VKT02",
+    "SoTC": "3.0",
+    "MaLHP": "125550402602",
+    "MaGV": "5140001",
+    "GiangVien": "Nguyễn Đức Sỹ"
+  },
+  {
+    "MaHP": "5502009",
+    "TenHP": "Kỹ năng lãnh đạo, quản lý",
+    "TenLopHP": "125KNLDQL05",
+    "SoTC": "2.0",
+    "MaLHP": "125550200905",
+    "MaGV": "5050074",
+    "GiangVien": "Trần Lê Nhật Hoàng"
+  },
+  {
+    "MaHP": "5502004",
+    "TenHP": "Kỹ năng làm việc nhóm",
+    "TenLopHP": "125KNLVN04",
+    "SoTC": "1.0",
+    "MaLHP": "125550200404",
+    "MaGV": "5140003",
+    "GiangVien": "Trần Thị Lợi"
+  },
+  {
+    "MaHP": "5504040",
+    "TenHP": "Sức bền vật liệu",
+    "TenLopHP": "125SBVL02",
+    "SoTC": "3.0",
+    "MaLHP": "125550404002",
+    "MaGV": "5040044",
+    "GiangVien": "Nguyễn Thị Hải Vân"
+  },
+  {
+    "MaHP": "5504255",
+    "TenHP": "Trang bị điện trong máy cơ khí",
+    "TenLopHP": "125TBDTMCK01",
+    "SoTC": "2.0",
+    "MaLHP": "125550425501",
+    "MaGV": "5040074",
+    "GiangVien": "Huỳnh Hải"
+  },
+  {
+    "MaHP": "5505251",
+    "TenHP": "Tin học cơ bản",
+    "TenLopHP": "125THCB02",
+    "SoTC": "2.0",
+    "MaLHP": "125550525102",
+    "MaGV": "5050010",
+    "GiangVien": "Hoàng Thị Mỹ Lệ"
+  },
+  {
+    "MaHP": "5505251",
+    "TenHP": "Tin học cơ bản",
+    "TenLopHP": "125THCB06",
+    "SoTC": "2.0",
+    "MaLHP": "125550525106",
+    "MaGV": "5050022",
+    "GiangVien": "Lê Vũ"
+  },
+  {
+    "MaHP": "5209005",
+    "TenHP": "Triết học Mác-Lênin",
+    "TenLopHP": "125THML06",
+    "SoTC": "3.0",
+    "MaLHP": "125520900506",
+    "MaGV": "2090017",
+    "GiangVien": "Trần Hồng Lưu"
+  },
+  {
+    "MaHP": "5504016",
+    "TenHP": "Đồ án Chi Tiết Máy",
+    "TenLopHP": "125DACTM05",
+    "SoTC": "2.0",
+    "MaLHP": "125550401605",
+    "MaGV": "5040060",
+    "GiangVien": "Đào Thanh Hùng"
+  },
+  {
+    "MaHP": "5502010",
+    "TenHP": "Đổi mới, sáng tạo, khởi nghiệp",
+    "TenLopHP": "125DMSTKN01",
+    "SoTC": "2.0",
+    "MaLHP": "125550201001",
+    "MaGV": "5050022",
+    "GiangVien": "Lê Vũ"
+  },
+  {
+    "MaHP": "5319001",
+    "TenHP": "Đại số tuyến tính",
+    "TenLopHP": "125DSTT06",
+    "SoTC": "2.0",
+    "MaLHP": "125531900106",
+    "MaGV": "3190045",
+    "GiangVien": "Nguyễn Thanh  Hưng"
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC113",
+    "SoTC": "1.0",
+    "MaLHP": "125501300113",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC114",
+    "SoTC": "1.0",
+    "MaLHP": "125501300114",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Cầu lông",
+    "TenLopHP": "125GDTC329",
+    "SoTC": "1.0",
+    "MaLHP": "125501300329",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Cầu lông",
+    "TenLopHP": "125GDTC330",
+    "SoTC": "1.0",
+    "MaLHP": "125501300330",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5319003",
+    "TenHP": "Giải tích II",
+    "TenLopHP": "125GT201",
+    "SoTC": "2.0",
+    "MaLHP": "125531900301",
+    "MaGV": "3190041",
+    "GiangVien": "Trần Văn Sự"
+  },
+  {
+    "MaHP": "5504264",
+    "TenHP": "Kỹ thuật ô tô",
+    "TenLopHP": "125KTOTO02",
+    "SoTC": "2.0",
+    "MaLHP": "125550426402",
+    "MaGV": "5040006",
+    "GiangVien": "Nguyễn Lê Châu Thành"
+  },
+  {
+    "MaHP": "5504279",
+    "TenHP": "Tin học ứng dụng trong Cơ khí",
+    "TenLopHP": "125THUDTCK04",
+    "SoTC": "2.0",
+    "MaLHP": "125550427904",
+    "MaGV": "5040074",
+    "GiangVien": "Huỳnh Hải"
+  },
+  {
+    "MaHP": "5504256",
+    "TenHP": "Thiết kế cơ khí 3D",
+    "TenLopHP": "125TKCK3D02",
+    "SoTC": "2.0",
+    "MaLHP": "125550425602",
+    "MaGV": "5040079",
+    "GiangVien": "Nguyễn Quang Dự"
+  },
+  {
+    "MaHP": "5504079",
+    "TenHP": "TTCM Tiện",
+    "TenLopHP": "125TTCB02",
+    "SoTC": "3.0",
+    "MaLHP": "125550407902",
+    "MaGV": "5040067",
+    "GiangVien": "Nguyễn Đức Long"
+  },
+  {
+    "MaHP": "5505039",
+    "TenHP": "Kỹ thuật điện-điên tử",
+    "TenLopHP": "125KTDDT01",
+    "SoTC": "2.0",
+    "MaLHP": "125550503901",
+    "MaGV": "5050017",
+    "GiangVien": "Võ Thị Hương"
+  },
+  {
+    "MaHP": "5505039",
+    "TenHP": "Kỹ thuật điện-điên tử",
+    "TenLopHP": "125KTDDT02",
+    "SoTC": "2.0",
+    "MaLHP": "125550503902",
+    "MaGV": "5050017",
+    "GiangVien": "Võ Thị Hương"
+  },
+  {
+    "MaHP": "5504263",
+    "TenHP": "Kỹ thuật điều khiển tự động cơ khí",
+    "TenLopHP": "125KTVDKTDCK01",
+    "SoTC": "2.0",
+    "MaLHP": "125550426301",
+    "MaGV": "5040007",
+    "GiangVien": "Ngô Tấn Thống"
+  },
+  {
+    "MaHP": "5504037",
+    "TenHP": "Nguyên lý máy",
+    "TenLopHP": "125NLM02",
+    "SoTC": "2.0",
+    "MaLHP": "125550403702",
+    "MaGV": "5040057",
+    "GiangVien": "Nguyễn Lê Văn"
+  },
+  {
+    "MaHP": "5504037",
+    "TenHP": "Nguyên lý máy",
+    "TenLopHP": "125NLM04",
+    "SoTC": "2.0",
+    "MaLHP": "125550403704",
+    "MaGV": "5040051",
+    "GiangVien": "Nguyễn Thái Dương"
+  },
+  {
+    "MaHP": "5209007",
+    "TenHP": "Chủ nghĩa xã hội khoa học",
+    "TenLopHP": "125CNXHKH08",
+    "SoTC": "2.0",
+    "MaLHP": "125520900708",
+    "MaGV": "5090259",
+    "GiangVien": "Vương Phương Hoa"
+  },
+  {
+    "MaHP": "5319002",
+    "TenHP": "Giải tích I",
+    "TenLopHP": "125GT105",
+    "SoTC": "3.0",
+    "MaLHP": "125531900205",
+    "MaGV": "3190045",
+    "GiangVien": "Nguyễn Thanh  Hưng"
+  },
+  {
+    "MaHP": "5319003",
+    "TenHP": "Giải tích II",
+    "TenLopHP": "125GT202",
+    "SoTC": "2.0",
+    "MaLHP": "125531900302",
+    "MaGV": "3190041",
+    "GiangVien": "Trần Văn Sự"
+  },
+  {
+    "MaHP": "5502004",
+    "TenHP": "Kỹ năng làm việc nhóm",
+    "TenLopHP": "125KNLVN05",
+    "SoTC": "1.0",
+    "MaLHP": "125550200405",
+    "MaGV": "5140006",
+    "GiangVien": "Nguyễn Thị Lan Oanh"
+  },
+  {
+    "MaHP": "5502004",
+    "TenHP": "Kỹ năng làm việc nhóm",
+    "TenLopHP": "125KNLVN06",
+    "SoTC": "1.0",
+    "MaLHP": "125550200406",
+    "MaGV": "5140006",
+    "GiangVien": "Nguyễn Thị Lan Oanh"
+  },
+  {
+    "MaHP": "5504275",
+    "TenHP": "Vật liệu mới trong kĩ thuật",
+    "TenLopHP": "125VLMTKT01",
+    "SoTC": "2.0",
+    "MaLHP": "125550427501",
+    "MaGV": "5070035",
+    "GiangVien": "Võ Văn Quân"
+  },
+  {
+    "MaHP": "5504017",
+    "TenHP": "Đồ án CN Chế tạo Máy",
+    "TenLopHP": "125DACCTM04",
+    "SoTC": "2.0",
+    "MaLHP": "125550401704",
+    "MaGV": "5040042",
+    "GiangVien": "Bùi Hệ Thống"
+  },
+  {
+    "MaHP": "5504009",
+    "TenHP": "Công nghệ CAD/CAM/CNC",
+    "TenLopHP": "125CNC04",
+    "SoTC": "2.0",
+    "MaLHP": "125550400904",
+    "MaGV": "5040061",
+    "GiangVien": "Phan Nguyễn Duy Minh"
+  },
+  {
+    "MaHP": "5504022",
+    "TenHP": "Dung sai đo lường",
+    "TenLopHP": "125DSDL03",
+    "SoTC": "2.0",
+    "MaLHP": "125550402203",
+    "MaGV": "5040079",
+    "GiangVien": "Nguyễn Quang Dự"
+  },
+  {
+    "MaHP": "5319001",
+    "TenHP": "Đại số tuyến tính",
+    "TenLopHP": "125DSTT05",
+    "SoTC": "2.0",
+    "MaLHP": "125531900105",
+    "MaGV": "3190040",
+    "GiangVien": "Nguyễn Thị Thu Sương"
+  },
+  {
+    "MaHP": "5319001",
+    "TenHP": "Đại số tuyến tính",
+    "TenLopHP": "125DSTT07",
+    "SoTC": "2.0",
+    "MaLHP": "125531900107",
+    "MaGV": "3190045",
+    "GiangVien": "Nguyễn Thanh  Hưng"
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC115",
+    "SoTC": "1.0",
+    "MaLHP": "125501300115",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013001",
+    "TenHP": "Giáo dục thể chất I Điền kinh",
+    "TenLopHP": "125GDTC116",
+    "SoTC": "1.0",
+    "MaLHP": "125501300116",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng chuyền",
+    "TenLopHP": "125GDTC305",
+    "SoTC": "1.0",
+    "MaLHP": "125501300305",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng chuyền",
+    "TenLopHP": "125GDTC306",
+    "SoTC": "1.0",
+    "MaLHP": "125501300306",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5209004",
+    "TenHP": "Tư tưởng Hồ Chí Minh",
+    "TenLopHP": "125HCM07",
+    "SoTC": "2.0",
+    "MaLHP": "125520900407",
+    "MaGV": "5090225",
+    "GiangVien": "Lê Sơn"
+  },
+  {
+    "MaHP": "5502009",
+    "TenHP": "Kỹ năng lãnh đạo, quản lý",
+    "TenLopHP": "125KNLDQL06",
+    "SoTC": "2.0",
+    "MaLHP": "125550200906",
+    "MaGV": "5050074",
+    "GiangVien": "Trần Lê Nhật Hoàng"
+  },
+  {
+    "MaHP": "5209006",
+    "TenHP": "Kinh tế chính trị",
+    "TenLopHP": "125KTCT03",
+    "SoTC": "2.0",
+    "MaLHP": "125520900603",
+    "MaGV": "2090010",
+    "GiangVien": "Nguyễn Hồng Cử"
+  },
+  {
+    "MaHP": "5505039",
+    "TenHP": "Kỹ thuật điện-điên tử",
+    "TenLopHP": "125KTDDT03",
+    "SoTC": "2.0",
+    "MaLHP": "125550503903",
+    "MaGV": "5050017",
+    "GiangVien": "Võ Thị Hương"
+  },
+  {
+    "MaHP": "5504037",
+    "TenHP": "Nguyên lý máy",
+    "TenLopHP": "125NLM03",
+    "SoTC": "2.0",
+    "MaLHP": "125550403703",
+    "MaGV": "5040057",
+    "GiangVien": "Nguyễn Lê Văn"
+  },
+  {
+    "MaHP": "5504037",
+    "TenHP": "Nguyên lý máy",
+    "TenLopHP": "125NLM05",
+    "SoTC": "2.0",
+    "MaLHP": "125550403705",
+    "MaGV": "5040051",
+    "GiangVien": "Nguyễn Thái Dương"
+  },
+  {
+    "MaHP": "5504269",
+    "TenHP": "Quản lý dự án ngành Cơ khí",
+    "TenLopHP": "125QLDANCK01",
+    "SoTC": "2.0",
+    "MaLHP": "125550426901",
+    "MaGV": "5040007",
+    "GiangVien": "Ngô Tấn Thống"
+  },
+  {
+    "MaHP": "5504039",
+    "TenHP": "Robot công nghiệp",
+    "TenLopHP": "125RCN01",
+    "SoTC": "2.0",
+    "MaLHP": "125550403901",
+    "MaGV": "5040062",
+    "GiangVien": "Nguyễn Phú Sinh"
+  },
+  {
+    "MaHP": "5504079",
+    "TenHP": "TTCM Tiện",
+    "TenLopHP": "125TTCB03",
+    "SoTC": "3.0",
+    "MaLHP": "125550407903",
+    "MaGV": "5040067",
+    "GiangVien": "Nguyễn Đức Long"
+  },
+  {
+    "MaHP": "5305002",
+    "TenHP": "Vật lý Cơ - Nhiệt",
+    "TenLopHP": "125VLCN03",
+    "SoTC": "2.0",
+    "MaLHP": "125530500203",
+    "MaGV": "5090266",
+    "GiangVien": "Lê Thị Minh Phương"
+  },
+  {
+    "MaHP": "5319002",
+    "TenHP": "Giải tích I",
+    "TenLopHP": "125GT101",
+    "SoTC": "3.0",
+    "MaLHP": "125531900201",
+    "MaGV": "3190040",
+    "GiangVien": "Nguyễn Thị Thu Sương"
+  },
+  {
+    "MaHP": "5319002",
+    "TenHP": "Giải tích I",
+    "TenLopHP": "125GT104",
+    "SoTC": "3.0",
+    "MaLHP": "125531900204",
+    "MaGV": "3190045",
+    "GiangVien": "Nguyễn Thanh  Hưng"
+  },
+  {
+    "MaHP": "5209004",
+    "TenHP": "Tư tưởng Hồ Chí Minh",
+    "TenLopHP": "125HCM08",
+    "SoTC": "2.0",
+    "MaLHP": "125520900408",
+    "MaGV": "5090225",
+    "GiangVien": "Lê Sơn"
+  },
+  {
+    "MaHP": "5502009",
+    "TenHP": "Kỹ năng lãnh đạo, quản lý",
+    "TenLopHP": "125KNLDQL07",
+    "SoTC": "2.0",
+    "MaLHP": "125550200907",
+    "MaGV": "5050074",
+    "GiangVien": "Trần Lê Nhật Hoàng"
+  },
+  {
+    "MaHP": "5209006",
+    "TenHP": "Kinh tế chính trị",
+    "TenLopHP": "125KTCT04",
+    "SoTC": "2.0",
+    "MaLHP": "125520900604",
+    "MaGV": "2090010",
+    "GiangVien": "Nguyễn Hồng Cử"
+  },
+  {
+    "MaHP": "5504040",
+    "TenHP": "Sức bền vật liệu",
+    "TenLopHP": "125SBVL03",
+    "SoTC": "3.0",
+    "MaLHP": "125550404003",
+    "MaGV": "5060039",
+    "GiangVien": "Đặng Ngọc Thành"
+  },
+  {
+    "MaHP": "5504274",
+    "TenHP": "Trang bị công nghệ gia công cơ khí",
+    "TenLopHP": "125TBCNGCCK01",
+    "SoTC": "2.0",
+    "MaLHP": "125550427401",
+    "MaGV": "5040060",
+    "GiangVien": "Đào Thanh Hùng"
+  },
+  {
+    "MaHP": "5305002",
+    "TenHP": "Vật lý Cơ - Nhiệt",
+    "TenLopHP": "125VLCN04",
+    "SoTC": "2.0",
+    "MaLHP": "125530500204",
+    "MaGV": "5090266",
+    "GiangVien": "Lê Thị Minh Phương"
+  },
+  {
+    "MaHP": "5504266",
+    "TenHP": "Đồ án tốt nghiệp Chế tạo máy",
+    "TenLopHP": "125DATNCTM01",
+    "SoTC": "12.0",
+    "MaLHP": "125550426601",
+    "MaGV": "5040047",
+    "GiangVien": "Nguyễn Xuân Bảo"
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng chuyền",
+    "TenLopHP": "125GDTC307",
+    "SoTC": "1.0",
+    "MaLHP": "125501300307",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng chuyền",
+    "TenLopHP": "125GDTC308",
+    "SoTC": "1.0",
+    "MaLHP": "125501300308",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng rổ",
+    "TenLopHP": "125GDTC323",
+    "SoTC": "1.0",
+    "MaLHP": "125501300323",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng rổ",
+    "TenLopHP": "125GDTC324",
+    "SoTC": "1.0",
+    "MaLHP": "125501300324",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5502004",
+    "TenHP": "Kỹ năng làm việc nhóm",
+    "TenLopHP": "125KNLVN07",
+    "SoTC": "1.0",
+    "MaLHP": "125550200407",
+    "MaGV": "5140006",
+    "GiangVien": "Nguyễn Thị Lan Oanh"
+  },
+  {
+    "MaHP": "5502004",
+    "TenHP": "Kỹ năng làm việc nhóm",
+    "TenLopHP": "125KNLVN08",
+    "SoTC": "1.0",
+    "MaLHP": "125550200408",
+    "MaGV": "5140006",
+    "GiangVien": "Nguyễn Thị Lan Oanh"
+  },
+  {
+    "MaHP": "5209006",
+    "TenHP": "Kinh tế chính trị",
+    "TenLopHP": "125KTCT01",
+    "SoTC": "2.0",
+    "MaLHP": "125520900601",
+    "MaGV": "5090259",
+    "GiangVien": "Vương Phương Hoa"
+  },
+  {
+    "MaHP": "5504034",
+    "TenHP": "Máy cắt kim loại",
+    "TenLopHP": "125MCKL02",
+    "SoTC": "2.0",
+    "MaLHP": "125550403402",
+    "MaGV": "5040060",
+    "GiangVien": "Đào Thanh Hùng"
+  },
+  {
+    "MaHP": "5504165",
+    "TenHP": "Nhập môn ngành CK",
+    "TenLopHP": "125NMNCK01",
+    "SoTC": "2.0",
+    "MaLHP": "125550416501",
+    "MaGV": "5040079",
+    "GiangVien": "Nguyễn Quang Dự"
+  },
+  {
+    "MaHP": "5504261",
+    "TenHP": "THCM Đúc-Rèn-Dập",
+    "TenLopHP": "125THCMDRD02",
+    "SoTC": "2.0",
+    "MaLHP": "125550426102",
+    "MaGV": "5040074",
+    "GiangVien": "Huỳnh Hải"
+  },
+  {
+    "MaHP": "5504258",
+    "TenHP": "THCM Hàn",
+    "TenLopHP": "125THCMHAN01",
+    "SoTC": "2.0",
+    "MaLHP": "125550425801",
+    "MaGV": "5040041",
+    "GiangVien": "Nguyễn Văn Chương"
+  },
+  {
+    "MaHP": "5504026",
+    "TenHP": "Hình họa - Vẽ kỹ thuật",
+    "TenLopHP": "125HH-VKT03",
+    "SoTC": "3.0",
+    "MaLHP": "125550402603",
+    "MaGV": "5140001",
+    "GiangVien": "Nguyễn Đức Sỹ"
+  },
+  {
+    "MaHP": "5209006",
+    "TenHP": "Kinh tế chính trị",
+    "TenLopHP": "125KTCT02",
+    "SoTC": "2.0",
+    "MaLHP": "125520900602",
+    "MaGV": "5090259",
+    "GiangVien": "Vương Phương Hoa"
+  },
+  {
+    "MaHP": "5504274",
+    "TenHP": "Trang bị công nghệ gia công cơ khí",
+    "TenLopHP": "125TBCNGCCK02",
+    "SoTC": "2.0",
+    "MaLHP": "125550427402",
+    "MaGV": "5040060",
+    "GiangVien": "Đào Thanh Hùng"
+  },
+  {
+    "MaHP": "5505251",
+    "TenHP": "Tin học cơ bản",
+    "TenLopHP": "125THCB03",
+    "SoTC": "2.0",
+    "MaLHP": "125550525103",
+    "MaGV": "5050045",
+    "GiangVien": "Trần Bửu Dung"
+  },
+  {
+    "MaHP": "5505251",
+    "TenHP": "Tin học cơ bản",
+    "TenLopHP": "125THCB09",
+    "SoTC": "2.0",
+    "MaLHP": "125550525109",
+    "MaGV": "5050022",
+    "GiangVien": "Lê Vũ"
+  },
+  {
+    "MaHP": "5504016",
+    "TenHP": "Đồ án Chi Tiết Máy",
+    "TenLopHP": "125DACTM01",
+    "SoTC": "2.0",
+    "MaLHP": "125550401601",
+    "MaGV": "5040051",
+    "GiangVien": "Nguyễn Thái Dương"
+  },
+  {
+    "MaHP": "5504002",
+    "TenHP": "Bảo dưỡng công nghiệp",
+    "TenLopHP": "125BDCN01",
+    "SoTC": "2.0",
+    "MaLHP": "125550400201",
+    "MaGV": "5040060",
+    "GiangVien": "Đào Thanh Hùng"
+  },
+  {
+    "MaHP": "5504011",
+    "TenHP": "Công nghệ Chế tạo Máy I",
+    "TenLopHP": "125CNCTM101",
+    "SoTC": "2.0",
+    "MaLHP": "125550401101",
+    "MaGV": "5040047",
+    "GiangVien": "Nguyễn Xuân Bảo"
+  },
+  {
+    "MaHP": "5209007",
+    "TenHP": "Chủ nghĩa xã hội khoa học",
+    "TenLopHP": "125CNXHKH09",
+    "SoTC": "2.0",
+    "MaLHP": "125520900709",
+    "MaGV": "2090045",
+    "GiangVien": "Trương Thị Thu Hiền"
+  },
+  {
+    "MaHP": "5504265",
+    "TenHP": "Các phương pháp gia công đặc biệt",
+    "TenLopHP": "125CPPGCDB02",
+    "SoTC": "2.0",
+    "MaLHP": "125550426502",
+    "MaGV": "5040007",
+    "GiangVien": "Ngô Tấn Thống"
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng chuyền",
+    "TenLopHP": "125GDTC309",
+    "SoTC": "1.0",
+    "MaLHP": "125501300309",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III Bóng chuyền",
+    "TenLopHP": "125GDTC310",
+    "SoTC": "1.0",
+    "MaLHP": "125501300310",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5502003",
+    "TenHP": "Kỹ năng giao tiếp",
+    "TenLopHP": "125KNGT01",
+    "SoTC": "1.0",
+    "MaLHP": "125550200301",
+    "MaGV": "5140003",
+    "GiangVien": "Trần Thị Lợi"
+  },
+  {
+    "MaHP": "5502003",
+    "TenHP": "Kỹ năng giao tiếp",
+    "TenLopHP": "125KNGT03",
+    "SoTC": "1.0",
+    "MaLHP": "125550200303",
+    "MaGV": "5140003",
+    "GiangVien": "Trần Thị Lợi"
+  },
+  {
+    "MaHP": "5504031",
+    "TenHP": "Kỹ Thuật Nhiệt",
+    "TenLopHP": "125KTN02",
+    "SoTC": "2.0",
+    "MaLHP": "125550403102",
+    "MaGV": "5040031",
+    "GiangVien": "Nguyễn Thị Hồng Nhung"
+  },
+  {
+    "MaHP": "5209008",
+    "TenHP": "Lịch sử Đảng Cộng sản Việt Nam",
+    "TenLopHP": "125LSDCSVN07",
+    "SoTC": "2.0",
+    "MaLHP": "125520900807",
+    "MaGV": "2090005",
+    "GiangVien": "Nguyễn Văn Hoàn"
+  },
+  {
+    "MaHP": "5413004",
+    "TenHP": "Ngoại ngữ III",
+    "TenLopHP": "125NN301",
+    "SoTC": "2.0",
+    "MaLHP": "125541300401",
+    "MaGV": "0070004",
+    "GiangVien": "Hồ Lộng Ngọc"
+  },
+  {
+    "MaHP": "5504256",
+    "TenHP": "Thiết kế cơ khí 3D",
+    "TenLopHP": "125TKCK3D03",
+    "SoTC": "2.0",
+    "MaLHP": "125550425603",
+    "MaGV": "5040079",
+    "GiangVien": "Nguyễn Quang Dự"
+  },
+  {
+    "MaHP": "5504303",
+    "TenHP": "TN Vật liệu kỹ thuật",
+    "TenLopHP": "125TNVLKT2207",
+    "SoTC": "1.0",
+    "MaLHP": "125550430307",
+    "MaGV": "5040077",
+    "GiangVien": "Hoàng Trọng Hiếu"
+  },
+  {
+    "MaHP": "5504303",
+    "TenHP": "TN Vật liệu kỹ thuật",
+    "TenLopHP": "125TNVLKT2208",
+    "SoTC": "1.0",
+    "MaLHP": "125550430308",
+    "MaGV": "5040077",
+    "GiangVien": "Hoàng Trọng Hiếu"
+  },
+  {
+    "MaHP": "5504055",
+    "TenHP": "TN Sức bền & Kim loại học",
+    "TenLopHP": "125TSB&KLH02",
+    "SoTC": "1.0",
+    "MaLHP": "125550405502",
+    "MaGV": "5040057",
+    "GiangVien": "Nguyễn Lê Văn"
+  },
+  {
+    "MaHP": "5504304",
+    "TenHP": "Tối ưu hoá trong Cơ khí",
+    "TenLopHP": "125TUHTCK2202",
+    "SoTC": "2.0",
+    "MaLHP": "125550430402",
+    "MaGV": "5040042",
+    "GiangVien": "Bùi Hệ Thống"
+  },
+  {
+    "MaHP": "5504011",
+    "TenHP": "Công nghệ Chế tạo Máy I",
+    "TenLopHP": "125CNCTM102",
+    "SoTC": "2.0",
+    "MaLHP": "125550401102",
+    "MaGV": "5040047",
+    "GiangVien": "Nguyễn Xuân Bảo"
+  },
+  {
+    "MaHP": "5504012",
+    "TenHP": "Công nghệ Chế tạo Máy II",
+    "TenLopHP": "125CNCTM201",
+    "SoTC": "2.0",
+    "MaLHP": "125550401201",
+    "MaGV": "5040042",
+    "GiangVien": "Bùi Hệ Thống"
+  },
+  {
+    "MaHP": "5209007",
+    "TenHP": "Chủ nghĩa xã hội khoa học",
+    "TenLopHP": "125CNXHKH10",
+    "SoTC": "2.0",
+    "MaLHP": "125520900710",
+    "MaGV": "2090045",
+    "GiangVien": "Trương Thị Thu Hiền"
+  },
+  {
+    "MaHP": "5502003",
+    "TenHP": "Kỹ năng giao tiếp",
+    "TenLopHP": "125KNGT02",
+    "SoTC": "1.0",
+    "MaLHP": "125550200302",
+    "MaGV": "5140003",
+    "GiangVien": "Trần Thị Lợi"
+  },
+  {
+    "MaHP": "5502003",
+    "TenHP": "Kỹ năng giao tiếp",
+    "TenLopHP": "125KNGT07",
+    "SoTC": "1.0",
+    "MaLHP": "125550200307",
+    "MaGV": "5140003",
+    "GiangVien": "Trần Thị Lợi"
+  },
+  {
+    "MaHP": "5209008",
+    "TenHP": "Lịch sử Đảng Cộng sản Việt Nam",
+    "TenLopHP": "125LSDCSVN08",
+    "SoTC": "2.0",
+    "MaLHP": "125520900808",
+    "MaGV": "2090005",
+    "GiangVien": "Nguyễn Văn Hoàn"
+  },
+  {
+    "MaHP": "5413004",
+    "TenHP": "Ngoại ngữ III",
+    "TenLopHP": "125NN302",
+    "SoTC": "2.0",
+    "MaLHP": "125541300402",
+    "MaGV": "0070004",
+    "GiangVien": "Hồ Lộng Ngọc"
+  },
+  {
+    "MaHP": "5504271",
+    "TenHP": "Đồ án Tính toán, thiết kế Cơ khí",
+    "TenLopHP": "125DATTTKCK01",
+    "SoTC": "2.0",
+    "MaLHP": "125550427101",
+    "MaGV": "5040042",
+    "GiangVien": "Bùi Hệ Thống"
+  },
+  {
+    "MaHP": "5504254",
+    "TenHP": "Học kỳ doanh nghiệp Chế tạo máy",
+    "TenLopHP": "125HKDNCTM01",
+    "SoTC": "3.0",
+    "MaLHP": "125550425401",
+    "MaGV": "5040047",
+    "GiangVien": "Nguyễn Xuân Bảo"
+  },
+  {
+    "MaHP": "5209007",
+    "TenHP": "Chủ nghĩa xã hội khoa học",
+    "TenLopHP": "125CNXHKH03",
+    "SoTC": "2.0",
+    "MaLHP": "125520900703",
+    "MaGV": "5090278",
+    "GiangVien": "Hoàng Thị Kim Liên"
+  },
+  {
+    "MaHP": "5013002",
+    "TenHP": "Giáo dục thể chất II",
+    "TenLopHP": "125GDTC201",
+    "SoTC": "1.0",
+    "MaLHP": "125501300201",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013002",
+    "TenHP": "Giáo dục thể chất II",
+    "TenLopHP": "125GDTC202",
+    "SoTC": "1.0",
+    "MaLHP": "125501300202",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III",
+    "TenLopHP": "125GDTC333",
+    "SoTC": "1.0",
+    "MaLHP": "125501300333",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013003",
+    "TenHP": "Giáo dục thể chất III",
+    "TenLopHP": "125GDTC334",
+    "SoTC": "1.0",
+    "MaLHP": "125501300334",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5504256",
+    "TenHP": "Thiết kế cơ khí 3D",
+    "TenLopHP": "125TKCK3D04",
+    "SoTC": "2.0",
+    "MaLHP": "125550425604",
+    "MaGV": "5040079",
+    "GiangVien": "Nguyễn Quang Dự"
+  },
+  {
+    "MaHP": "5504079",
+    "TenHP": "TTCM Tiện",
+    "TenLopHP": "125TTCB04",
+    "SoTC": "3.0",
+    "MaLHP": "125550407904",
+    "MaGV": "5040067",
+    "GiangVien": "Nguyễn Đức Long"
+  },
+  {
+    "MaHP": "5504052",
+    "TenHP": "Tính thiết kế trên máy tính",
+    "TenLopHP": "125TTKTMT02",
+    "SoTC": "2.0",
+    "MaLHP": "125550405202",
+    "MaGV": "5040042",
+    "GiangVien": "Bùi Hệ Thống"
+  },
+  {
+    "MaHP": "5209007",
+    "TenHP": "Chủ nghĩa xã hội khoa học",
+    "TenLopHP": "125CNXHKH04",
+    "SoTC": "2.0",
+    "MaLHP": "125520900704",
+    "MaGV": "5090278",
+    "GiangVien": "Hoàng Thị Kim Liên"
+  },
+  {
+    "MaHP": "5413002",
+    "TenHP": "Ngoại Ngữ I",
+    "TenLopHP": "125NN101",
+    "SoTC": "3.0",
+    "MaLHP": "125541300201",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5504286",
+    "TenHP": "Phương pháp tính CK",
+    "TenLopHP": "125PPTCK01",
+    "SoTC": "2.0",
+    "MaLHP": "125550428601",
+    "MaGV": "5040042",
+    "GiangVien": "Bùi Hệ Thống"
+  },
+  {
+    "MaHP": "5505251",
+    "TenHP": "Tin học cơ bản",
+    "TenLopHP": "125THCB04",
+    "SoTC": "2.0",
+    "MaLHP": "125550525104",
+    "MaGV": "5050027",
+    "GiangVien": "Nguyễn Văn Phát"
+  },
+  {
+    "MaHP": "5504256",
+    "TenHP": "Thiết kế cơ khí 3D",
+    "TenLopHP": "125TKCK3D05",
+    "SoTC": "2.0",
+    "MaLHP": "125550425605",
+    "MaGV": "5040060",
+    "GiangVien": "Đào Thanh Hùng"
+  },
+  {
+    "MaHP": "5504016",
+    "TenHP": "Đồ án Chi Tiết Máy",
+    "TenLopHP": "125DACTM02",
+    "SoTC": "2.0",
+    "MaLHP": "125550401602",
+    "MaGV": "5040051",
+    "GiangVien": "Nguyễn Thái Dương"
+  },
+  {
+    "MaHP": "5013004",
+    "TenHP": "Giáo dục thể chất IV",
+    "TenLopHP": "125GDTC401",
+    "SoTC": "1.0",
+    "MaLHP": "125501300401",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5013004",
+    "TenHP": "Giáo dục thể chất IV",
+    "TenLopHP": "125GDTC402",
+    "SoTC": "1.0",
+    "MaLHP": "125501300402",
+    "MaGV": "",
+    "GiangVien": ""
+  },
+  {
+    "MaHP": "5209006",
+    "TenHP": "Kinh tế chính trị",
+    "TenLopHP": "125KTCT05",
+    "SoTC": "2.0",
+    "MaLHP": "125520900605",
+    "MaGV": "2090046",
+    "GiangVien": "Văn Công Vũ"
+  },
+  {
+    "MaHP": "5209006",
+    "TenHP": "Kinh tế chính trị",
+    "TenLopHP": "125KTCT07",
+    "SoTC": "2.0",
+    "MaLHP": "125520900607",
+    "MaGV": "2090004",
+    "GiangVien": "Nguyễn Thị Kiều Trinh"
+  },
+  {
+    "MaHP": "5504257",
+    "TenHP": "THCM CAD/CAM/CNC",
+    "TenLopHP": "125THCMCCC01",
+    "SoTC": "2.0",
+    "MaLHP": "125550425701",
+    "MaGV": "5040061",
+    "GiangVien": "Phan Nguyễn Duy Minh"
+  },
+  {
+    "MaHP": "5209006",
+    "TenHP": "Kinh tế chính trị",
+    "TenLopHP": "125KTCT06",
+    "SoTC": "2.0",
+    "MaLHP": "125520900606",
+    "MaGV": "2090046",
+    "GiangVien": "Văn Công Vũ"
+  },
+  {
+    "MaHP": "5209006",
+    "TenHP": "Kinh tế chính trị",
+    "TenLopHP": "125KTCT08",
+    "SoTC": "2.0",
+    "MaLHP": "125520900608",
+    "MaGV": "2090004",
+    "GiangVien": "Nguyễn Thị Kiều Trinh"
+  }
+]
